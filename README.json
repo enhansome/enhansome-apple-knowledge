@@ -1,0 +1,2081 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Our Tooling Repos"
+    },
+    {
+      "description": "Install our tap with\nInformation about the maintaining of that tap can be found at homebrew-jailbreak",
+      "items": [],
+      "title": "Our Homebrew Tap"
+    },
+    {
+      "description": "Linking your Discord and GitHub\nWe want this collection to be around for new jailbreakers and hobbyists for years to come, so we must say: this collection accepts (with gratitude) pull-requests that improve it, but under no circumstances will a PR based on , or any other copyrighted works protected by the DMCA be accepted. If you need help determining this, tag the PR with , join the Discord server, and ask a or higher role for help.\nViolation of the DMCA or Copyright law is the responsibility of the submitter.",
+      "items": [],
+      "title": "Contributing and a warning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "See docs/Binary_Tooling",
+      "items": [],
+      "title": "Libraries for Binary Analysis and Modification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unicorn Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T16:17:57Z",
+            "owner": "unicorn-engine",
+            "repo": "unicorn",
+            "stars": 9229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capstone Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T10:29:27Z",
+            "owner": "capstone-engine",
+            "repo": "capstone",
+            "stars": 8945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T05:09:35Z",
+            "owner": "blacktop",
+            "repo": "ipsw",
+            "stars": 3633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Build iOS on QEMU",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2021-09-16T16:44:58Z",
+                "owner": "alephsecurity",
+                "repo": "xnu-qemu-arm64",
+                "stars": 1460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2021-02-21T21:27:01Z",
+                "owner": "alephsecurity",
+                "repo": "xnu-qemu-arm64-tools",
+                "stars": 181
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-09-16T16:44:58Z",
+            "owner": "alephsecurity",
+            "repo": "xnu-qemu-arm64",
+            "stars": 1460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ktool",
+          "description": "FOSS Python Mach-O Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T14:49:03Z",
+            "owner": "0cyn",
+            "repo": "ktool",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-01-28T09:12:42Z",
+            "owner": "checkra1n",
+            "repo": "toolchain",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mootool",
+          "description": "FOSS Ruby Mach-O Tool (aims to replicate jtool2 feature set)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T05:59:29Z",
+            "owner": "hack-different",
+            "repo": "mootool",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "IDA Disassembler by Hex-Rays",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-31T03:28:20Z",
+                "owner": "onethawt",
+                "repo": "idaplugins-list",
+                "stars": 3832
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-02-19T03:30:46Z",
+                "owner": "Cisco-Talos",
+                "repo": "GhIDA",
+                "stars": 816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-02-03T08:39:42Z",
+                "owner": "avast",
+                "repo": "retdec-idaplugin",
+                "stars": 799
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2024-12-31T13:21:07Z",
+                "owner": "cellebrite-labs",
+                "repo": "FunctionInliner",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-11-02T04:18:38Z",
+                "owner": "matteyeux",
+                "repo": "ida-iboot-loader",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-27T06:11:33Z",
+                "owner": "cellebrite-labs",
+                "repo": "PacXplorer",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T01:51:43Z",
+                "owner": "cellebrite-labs",
+                "repo": "ida_kernelcache",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2022-03-02T08:21:19Z",
+                "owner": "0cyn",
+                "repo": "iBoot-IDA",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-08-26T12:53:02Z",
+                "owner": "haiyuidesu",
+                "repo": "sephelper",
+                "stars": 36
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Binary Ninja Disassembler",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-25T11:44:13Z",
+                "owner": "0cyn",
+                "repo": "bn-dyldsharedcache",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2022-07-11T15:22:47Z",
+                "owner": "jonpalmisc",
+                "repo": "ObjectiveNinja",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-07T18:38:01Z",
+                "owner": "matteyeux",
+                "repo": "seprom-loader",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-03-23T17:18:17Z",
+                "owner": "skr0x1c0",
+                "repo": "binja_kc",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-24T18:14:26Z",
+                "owner": "EliseZeroTwo",
+                "repo": "iBoot-Binja-Loader",
+                "stars": 35
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ghidra Disassembler",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-06-18T04:57:29Z",
+                "owner": "AllsafeCyberSecurity",
+                "repo": "awesome-ghidra",
+                "stars": 1423
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-11-06T07:30:52Z",
+                "owner": "0x36",
+                "repo": "ghidra_kernelcache",
+                "stars": 370
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "QEMU",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2022-07-02T21:00:16Z",
+                "owner": "geohot",
+                "repo": "qira",
+                "stars": 4069
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QEMU Apple Branch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2022-10-22T16:10:41Z",
+                "owner": "TrungNguyen1909",
+                "repo": "qemu-t8030",
+                "stars": 2207
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Tools for Binary Analysis and Modification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OWASP: iOS Tampering and Reverse Engineering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T10:23:52Z",
+            "owner": "OWASP",
+            "repo": "mastg",
+            "stars": 13110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kpwn / qwertyoruiop's Wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-06-30T13:23:49Z",
+            "owner": "kpwn",
+            "repo": "iOSRE",
+            "stars": 1179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kpwn / qwertyoruiop's Papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-06-30T13:23:49Z",
+            "owner": "kpwn",
+            "repo": "iOSRE",
+            "stars": 1179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T01:40:14Z",
+            "owner": "Proteas",
+            "repo": "apple-cve",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Guides and General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "T2",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-06-24T08:13:41Z",
+                "owner": "t2linux",
+                "repo": "apple-bce-drv",
+                "stars": 102
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Wi-Fi / Bluetooth",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-21T15:45:36Z",
+                "owner": "seemoo-lab",
+                "repo": "internalblue",
+                "stars": 784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2024-02-07T21:31:59Z",
+                "owner": "seemoo-lab",
+                "repo": "frankenstein",
+                "stars": 465
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SMC (System Management Controller) for pre-T2",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-04-09T13:44:20Z",
+                "owner": "acidanthera",
+                "repo": "VirtualSMC",
+                "stars": 1798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Create SMC binaries from update payloads",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2022-02-18T00:48:31Z",
+                "owner": "hack-different",
+                "repo": "smcutil",
+                "stars": 47
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Devices"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-20T15:10:51Z",
+            "owner": "acidanthera",
+            "repo": "Lilu",
+            "stars": 3856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-09-13T05:15:18Z",
+            "owner": "osy",
+            "repo": "AMFIExemption",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Kernel General"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protocols / Formats"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "All About Kernels",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2023-01-13T01:48:01Z",
+                "owner": "apple",
+                "repo": "darwin-xnu",
+                "stars": 11262
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "iBoot",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2018-10-25T21:49:40Z",
+                "owner": "OpenJailbreak",
+                "repo": "iBootRE",
+                "stars": 18
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SecureROM",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SecureROM Binaries",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-05T13:01:16Z",
+                "owner": "hekapooios",
+                "repo": "hekapooios.github.io",
+                "stars": 34
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Bootloader Related"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "APFS - Apple Filesystem",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-08-13T19:36:10Z",
+                "owner": "sgan81",
+                "repo": "apfs-fuse",
+                "stars": 2131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-04T10:37:26Z",
+                "owner": "libyal",
+                "repo": "libfsapfs",
+                "stars": 416
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2022-04-20T10:06:21Z",
+                "owner": "cugu",
+                "repo": "apfs.ksy",
+                "stars": 82
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NeXT / Apple \"Bill of Materials\" / /",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-02-26T15:12:25Z",
+                "owner": "iineva",
+                "repo": "bom",
+                "stars": 18
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Apple Disk Image -",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-10-18T18:57:38Z",
+                "owner": "darlinghq",
+                "repo": "darling-dmg",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-08-22T20:06:51Z",
+                "owner": "nlitsme",
+                "repo": "encrypteddmg",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Archive / Disk Formats"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Property Lists",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-05-22T22:53:04Z",
+                "owner": "libimobiledevice",
+                "repo": "libplist",
+                "stars": 631
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "iTunes database",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-03-27T15:42:41Z",
+                "owner": "josephw",
+                "repo": "titl",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2020-01-30T15:00:09Z",
+                "owner": "jeanthom",
+                "repo": "libitlp",
+                "stars": 17
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Apple iDevice Backup Format",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2022-11-16T07:53:48Z",
+                "owner": "horrorho",
+                "repo": "InflatableDonkey",
+                "stars": 269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-01-31T09:13:03Z",
+                "owner": "hack-different",
+                "repo": "libibackup",
+                "stars": 16
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Databases / Serialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Mach-O File Types",
+          "description": "Mach-O / Signing / Entitlements",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Alternative to sbingner/ldid with some updates for iOS 15 and general fixes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-07-24T18:47:15Z",
+                "owner": "ProcursusTeam",
+                "repo": "ldid",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Codesign tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2022-03-12T06:14:31Z",
+                "owner": "sbingner",
+                "repo": "ldid",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apple CTF / Compact Type Format",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2025-10-22T03:35:24Z",
+                "owner": "apple-oss-distributions",
+                "repo": "dtrace",
+                "stars": 25
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "img4 - Apple signed images, version 4",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2023-02-11T19:22:57Z",
+                "owner": "xerub",
+                "repo": "img4lib",
+                "stars": 369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-01-29T07:53:37Z",
+                "owner": "tihmstar",
+                "repo": "img4tool",
+                "stars": 326
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "A Python library/CLI tool for parsing IMG4",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-10T21:14:52Z",
+                "owner": "m1stadev",
+                "repo": "PyIMG4",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2024-05-10T12:56:43Z",
+                "owner": "h3adshotzz",
+                "repo": "img4helper",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TrustCache - Pre-authorized Binary Hashes",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2023-02-12T02:07:27Z",
+                "owner": "CRKatri",
+                "repo": "trustcache",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2020-10-27T04:41:26Z",
+                "owner": "hack-different",
+                "repo": "go-aapl-integrity",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "EALF - baselines",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2022-02-18T00:47:57Z",
+                "owner": "hack-different",
+                "repo": "efivalidate",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2020-10-27T04:41:26Z",
+                "owner": "hack-different",
+                "repo": "go-aapl-integrity",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ChunkList - Used to verify macOS Recovery / Internet Recovery",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2020-10-27T04:41:26Z",
+                "owner": "hack-different",
+                "repo": "go-aapl-integrity",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "and DSC (dyld Shared Cache)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Fixes up linking",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2025-01-27T00:32:37Z",
+                "owner": "arandomdev",
+                "repo": "DyldExtractor",
+                "stars": 470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Used as last resort and depend on Xcode",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2022-02-13T12:27:48Z",
+                "owner": "hack-different",
+                "repo": "yolo_dsc",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Rosetta2",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ProjectChampollion",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2021-08-03T09:12:22Z",
+                "owner": "FFRI",
+                "repo": "ProjectChampollion",
+                "stars": 435
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Swift",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Swift Mangling",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2026-08-13T11:19:11Z",
+                "owner": "swiftlang",
+                "repo": "swift",
+                "stars": 70247
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Code and Signature Formats"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Attack Secure Boot of SEP - blackbird",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-08-06T09:33:27Z",
+            "owner": "windknown",
+            "repo": "presentations",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-10T21:10:20Z",
+            "owner": "justtryingthingsout",
+            "repo": "sepsplit-rs",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEPROM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T13:01:16Z",
+            "owner": "hekapooios",
+            "repo": "hekapooios.github.io",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-15T18:43:42Z",
+            "owner": "lunaynx",
+            "repo": "sepfinderbot",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2020-03-31T09:18:44Z",
+                "owner": "mwpcheung",
+                "repo": "AppleSEPFirmware",
+                "stars": 59
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Secure Enclave Processor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "ARM General",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Siguza's ARM Bootcamp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-05-24T22:38:16Z",
+                "owner": "Siguza",
+                "repo": "ios-resources",
+                "stars": 1962
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Apple CPUs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Asahi: Introduction to Apple Silicon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-02T16:01:08Z",
+                "owner": "AsahiLinux",
+                "repo": "docs",
+                "stars": 2247
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Compilers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ARM Clang PAC ABI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "LLVM",
+                "last_commit": "2026-08-13T11:40:02Z",
+                "owner": "swiftlang",
+                "repo": "llvm-project",
+                "stars": 1239
+              }
+            }
+          ]
+        }
+      ],
+      "title": "ARM / x86"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hollance/neural-engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-12T11:59:20Z",
+            "owner": "hollance",
+            "repo": "neural-engine",
+            "stars": 2516
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "RTKit - \"Realtime\" Kit",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "19h/ftab-dump",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-06-03T12:49:28Z",
+                "owner": "19h",
+                "repo": "ftab-dump",
+                "stars": 72
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Coprocessors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-26T00:49:04Z",
+            "owner": "gh2o",
+            "repo": "rvi_capture",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2019-11-11T01:12:16Z",
+            "owner": "osy",
+            "repo": "ThunderboltPatcher",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Basically all iDevice / iTunes",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-06-10T07:52:18Z",
+                "owner": "libimobiledevice",
+                "repo": "libimobiledevice",
+                "stars": 8103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T06:18:24Z",
+                "owner": "doronz88",
+                "repo": "pymobiledevice3",
+                "stars": 2626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-02-16T13:25:29Z",
+                "owner": "hack-different",
+                "repo": "python-libimobiledevice",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DFU / Recovery",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-04T02:18:04Z",
+                "owner": "libimobiledevice",
+                "repo": "libirecovery",
+                "stars": 645
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "usbmuxd - USB transport for iDevices",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2025-12-06T01:14:51Z",
+                "owner": "libimobiledevice",
+                "repo": "usbmuxd",
+                "stars": 1748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-04-03T04:20:16Z",
+                "owner": "hack-different",
+                "repo": "demuxusb",
+                "stars": 35
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "- iDevice Restore Protocol",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-06-26T00:07:15Z",
+                "owner": "libimobiledevice",
+                "repo": "idevicerestore",
+                "stars": 1905
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "UTDM - USB Target Disk Mode",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2020-02-27T00:11:21Z",
+                "owner": "rickmark",
+                "repo": "apple_utdm",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "USB-C Power Delivery - Vendor Defined Messages",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-09-05T05:54:24Z",
+                "owner": "rickmark",
+                "repo": "macvdmtool",
+                "stars": 4
+              }
+            }
+          ]
+        }
+      ],
+      "title": "USB / Wired Protocols / Low Level Hardware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Apple Wi-Fi Password Sharing",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-04-13T08:27:59Z",
+                "owner": "seemoo-lab",
+                "repo": "openwifipass",
+                "stars": 835
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "macOS Internet Recovery",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2020-10-25T03:44:30Z",
+                "owner": "rickmark",
+                "repo": "apple_net_recovery",
+                "stars": 14
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Network / Wireless / Transit"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "AWDD - Apple Wireless Diagnostics (misnomer, more than wireless, system trace)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-07-30T07:45:01Z",
+                "owner": "hack-different",
+                "repo": "apple-diagnostics-format",
+                "stars": 17
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mojo Serial",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MojoKDP.kext.S",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Assembly",
+                "last_commit": "2026-07-22T12:06:15Z",
+                "owner": "rickmark",
+                "repo": "mojo_thor",
+                "stars": 65
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Apple Unified Logging",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dtformats",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-04T06:54:07Z",
+                "owner": "libyal",
+                "repo": "dtformats",
+                "stars": 197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "`ydkhatri/UnifiedLogReader``",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-07-25T11:53:18Z",
+                "owner": "ydkhatri",
+                "repo": "UnifiedLogReader",
+                "stars": 100
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "XHC20 USB Capture",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-04-03T04:20:16Z",
+                "owner": "hack-different",
+                "repo": "demuxusb",
+                "stars": 35
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Diagnostic Protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-21T04:10:19Z",
+            "owner": "axi0mX",
+            "repo": "ipwndfu",
+            "stars": 7388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fugu14 writeup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2022-06-12T08:48:08Z",
+            "owner": "LinusHenze",
+            "repo": "Fugu14",
+            "stars": 1411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-05-11T00:47:15Z",
+            "owner": "LinusHenze",
+            "repo": "Fugu",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rootlessJB writeup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-07-26T15:28:59Z",
+            "owner": "jakeajames",
+            "repo": "rootlessJB3",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-02-02T12:01:26Z",
+            "owner": "0x7ff",
+            "repo": "gaster",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "limera1n",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-08-21T01:23:34Z",
+            "owner": "Chronic-Dev",
+            "repo": "syringe",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2022-06-13T14:39:40Z",
+            "owner": "dora2ios",
+            "repo": "ipwnder_lite",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2017-08-20T02:51:31Z",
+            "owner": "OpenJailbreak",
+            "repo": "greenpois0n",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Jailbreaks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-01T10:15:19Z",
+            "owner": "ProcursusTeam",
+            "repo": "Procursus",
+            "stars": 1000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElleKit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-31T15:31:07Z",
+            "owner": "tealbathingsuit",
+            "repo": "ellekit",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-09-01T02:41:25Z",
+            "owner": "comex",
+            "repo": "substitute",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-08-21T01:23:34Z",
+            "owner": "Chronic-Dev",
+            "repo": "syringe",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-02-26T17:57:47Z",
+            "owner": "sbingner",
+            "repo": "substitute",
+            "stars": 108
+          }
+        }
+      ],
+      "title": "Jailbreak Tooling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pongoOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-03T07:14:34Z",
+            "owner": "checkra1n",
+            "repo": "PongoOS",
+            "stars": 2736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android on pongoOS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "iphonelinux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2023-07-09T22:40:20Z",
+                "owner": "planetbeing",
+                "repo": "iphonelinux",
+                "stars": 620
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-03-25T17:51:00Z",
+            "owner": "corellium",
+            "repo": "projectsandcastle",
+            "stars": 2097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corellium's M1 Branch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-02-24T03:20:26Z",
+            "owner": "corellium",
+            "repo": "linux-m1",
+            "stars": 870
+          }
+        }
+      ],
+      "title": "X-Plat"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:20:13Z",
+            "owner": "mvt-project",
+            "repo": "mvt",
+            "stars": 12865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-31T08:09:40Z",
+            "owner": "rickmark",
+            "repo": "isafety",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Safety / Protection"
+    },
+    {
+      "description": "Main article is in BUILD\nTo keep the repo, docs, and data tidy, we use a tool called to connect up the git hooks to a set of quality checks. The fastest way to get setup is to run the following to make sure you have all the tools:",
+      "items": [],
+      "title": "Setting up , the linters, and the build"
+    },
+    {
+      "description": "Wiki's best serve prose, and part of the goal here is to leverage machine readable and ingestable information with human augmentation wherever possible.\nAs of 2022, GitHub has 56 million users. That means that there are 56 million people who are able to contribute directly to this repo via a fork and PR, in opposition to wiki's which have a relatively small number of potential editors. The PR process also allows for modifications to be reviewed, commented and debated before inclusion.",
+      "items": [],
+      "title": "Why not <insert wiki here>"
+    },
+    {
+      "description": "The contents of this repo are dual-licensed:\nCode and data licensed under the MIT license\nDocuments also licensed under the CC-BY-SA\n{style=\"border-width:0\"} {rel=license} Apple Knowledge{:xmlns:dct=\"http://purl.org/dc/terms/\", :property=\"dct:title\"} by Hack Different{:xmlns:cc=\"http://creativecommons.org/ns#\", :property=\"cc:attributionName\", :rel=\"cc:attributionURL\"} is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/ licenses/by-sa/4.0/){:rel=\"license\"}",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "Also dedicated to the volunteer work of those who use this for good, and deny the shadow to those who seek to harm.",
+      "items": [],
+      "title": "Dedication"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:40:11.387Z",
+    "original_repository": "hack-different/apple-knowledge",
+    "original_repository_sha": "76b168bcaaf43754bda7c7b6ec96caeade98e09c",
+    "enhanced_repository": "enhansome/enhansome-apple-knowledge",
+    "enhanced_repository_description": null,
+    "title": "Awesome Apple Data Formats and Knowledge with stars"
+  }
+}
