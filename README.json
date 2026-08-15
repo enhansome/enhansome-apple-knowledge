@@ -39,7 +39,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9229
+            "stars": 9235
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-13T10:29:27Z",
             "owner": "capstone-engine",
             "repo": "capstone",
-            "stars": 8945
+            "stars": 8950
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T08:07:09Z",
+            "last_commit": "2026-08-15T03:57:28Z",
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3634
+            "stars": 3639
           }
         },
         {
@@ -430,7 +430,7 @@
                 "last_commit": "2022-10-22T16:10:41Z",
                 "owner": "TrungNguyen1909",
                 "repo": "qemu-t8030",
-                "stars": 2207
+                "stars": 2206
               }
             }
           ]
@@ -452,7 +452,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13115
+            "stars": 13117
           }
         },
         {
@@ -730,7 +730,7 @@
                 "last_commit": "2024-08-13T19:36:10Z",
                 "owner": "sgan81",
                 "repo": "apfs-fuse",
-                "stars": 2132
+                "stars": 2134
               }
             },
             {
@@ -914,7 +914,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-01-31T09:13:03Z",
+                "last_commit": "2026-08-14T15:30:03Z",
                 "owner": "hack-different",
                 "repo": "libibackup",
                 "stars": 16
@@ -1200,7 +1200,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Swift",
-                "last_commit": "2026-08-14T11:35:41Z",
+                "last_commit": "2026-08-15T10:06:12Z",
                 "owner": "swiftlang",
                 "repo": "swift",
                 "stars": 70253
@@ -1352,7 +1352,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "LLVM",
-                "last_commit": "2026-08-14T11:35:04Z",
+                "last_commit": "2026-08-15T11:09:58Z",
                 "owner": "swiftlang",
                 "repo": "llvm-project",
                 "stars": 1239
@@ -1451,7 +1451,7 @@
                 "last_commit": "2026-06-10T07:52:18Z",
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8105
+                "stars": 8104
               }
             },
             {
@@ -1465,7 +1465,7 @@
                 "last_commit": "2026-08-13T06:18:24Z",
                 "owner": "doronz88",
                 "repo": "pymobiledevice3",
-                "stars": 2629
+                "stars": 2631
               }
             },
             {
@@ -1532,7 +1532,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-04-03T04:20:16Z",
+                "last_commit": "2026-08-14T16:03:44Z",
                 "owner": "hack-different",
                 "repo": "demuxusb",
                 "stars": 35
@@ -1747,7 +1747,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-04-03T04:20:16Z",
+                "last_commit": "2026-08-14T16:03:44Z",
                 "owner": "hack-different",
                 "repo": "demuxusb",
                 "stars": 35
@@ -1772,7 +1772,7 @@
             "last_commit": "2024-02-21T04:10:19Z",
             "owner": "axi0mX",
             "repo": "ipwndfu",
-            "stars": 7390
+            "stars": 7389
           }
         },
         {
@@ -1966,7 +1966,7 @@
             "last_commit": "2025-07-03T07:14:34Z",
             "owner": "checkra1n",
             "repo": "PongoOS",
-            "stars": 2737
+            "stars": 2738
           }
         },
         {
@@ -2026,10 +2026,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T10:21:32Z",
+            "last_commit": "2026-08-14T18:19:37Z",
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 12877
+            "stars": 12881
           }
         },
         {
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:37:33.666Z",
+    "last_updated": "2026-08-15T11:11:45.546Z",
     "original_repository": "hack-different/apple-knowledge",
     "original_repository_sha": "76b168bcaaf43754bda7c7b6ec96caeade98e09c",
     "enhanced_repository": "enhansome/enhansome-apple-knowledge",
