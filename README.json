@@ -39,7 +39,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9235
+            "stars": 9236
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-13T10:29:27Z",
             "owner": "capstone-engine",
             "repo": "capstone",
-            "stars": 8950
+            "stars": 8952
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T03:57:28Z",
+            "last_commit": "2026-08-16T04:01:54Z",
             "owner": "blacktop",
             "repo": "ipsw",
-            "stars": 3639
+            "stars": 3642
           }
         },
         {
@@ -332,7 +332,7 @@
                 "last_commit": "2025-09-07T18:38:01Z",
                 "owner": "matteyeux",
                 "repo": "seprom-loader",
-                "stars": 60
+                "stars": 61
               }
             },
             {
@@ -452,7 +452,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13117
+            "stars": 13116
           }
         },
         {
@@ -1200,10 +1200,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Swift",
-                "last_commit": "2026-08-15T10:06:12Z",
+                "last_commit": "2026-08-16T08:33:31Z",
                 "owner": "swiftlang",
                 "repo": "swift",
-                "stars": 70253
+                "stars": 70254
               }
             }
           ]
@@ -1313,7 +1313,7 @@
                 "last_commit": "2025-05-24T22:38:16Z",
                 "owner": "Siguza",
                 "repo": "ios-resources",
-                "stars": 1963
+                "stars": 1964
               }
             }
           ]
@@ -1352,7 +1352,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "LLVM",
-                "last_commit": "2026-08-15T11:09:58Z",
+                "last_commit": "2026-08-16T11:09:29Z",
                 "owner": "swiftlang",
                 "repo": "llvm-project",
                 "stars": 1239
@@ -1377,7 +1377,7 @@
             "last_commit": "2026-03-12T11:59:20Z",
             "owner": "hollance",
             "repo": "neural-engine",
-            "stars": 2516
+            "stars": 2517
           }
         },
         {
@@ -1465,7 +1465,7 @@
                 "last_commit": "2026-08-13T06:18:24Z",
                 "owner": "doronz88",
                 "repo": "pymobiledevice3",
-                "stars": 2631
+                "stars": 2633
               }
             },
             {
@@ -1556,7 +1556,7 @@
                 "last_commit": "2026-06-26T00:07:15Z",
                 "owner": "libimobiledevice",
                 "repo": "idevicerestore",
-                "stars": 1907
+                "stars": 1909
               }
             }
           ]
@@ -1772,7 +1772,7 @@
             "last_commit": "2024-02-21T04:10:19Z",
             "owner": "axi0mX",
             "repo": "ipwndfu",
-            "stars": 7389
+            "stars": 7390
           }
         },
         {
@@ -1814,7 +1814,7 @@
             "last_commit": "2019-07-26T15:28:59Z",
             "owner": "jakeajames",
             "repo": "rootlessJB3",
-            "stars": 363
+            "stars": 362
           }
         },
         {
@@ -1890,7 +1890,7 @@
             "last_commit": "2026-08-01T10:15:19Z",
             "owner": "ProcursusTeam",
             "repo": "Procursus",
-            "stars": 1000
+            "stars": 1001
           }
         },
         {
@@ -2029,7 +2029,7 @@
             "last_commit": "2026-08-14T18:19:37Z",
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 12881
+            "stars": 12889
           }
         },
         {
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:11:45.546Z",
+    "last_updated": "2026-08-16T11:11:38.876Z",
     "original_repository": "hack-different/apple-knowledge",
     "original_repository_sha": "76b168bcaaf43754bda7c7b6ec96caeade98e09c",
     "enhanced_repository": "enhansome/enhansome-apple-knowledge",
