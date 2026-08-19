@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T16:17:57Z",
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9243
+                "stars": 9244
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-13T10:29:27Z",
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 8961
+                "stars": 8962
               }
             },
             {
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-19T01:21:03Z",
             "owner": "Proteas",
             "repo": "apple-cve",
-            "stars": 179
+            "stars": 180
           }
         }
       ],
@@ -1238,7 +1238,7 @@
                     "archived": false,
                     "id": 44838949,
                     "language": "Swift",
-                    "last_commit": "2026-08-19T11:07:37Z",
+                    "last_commit": "2026-08-19T12:04:57Z",
                     "owner": "swiftlang",
                     "repo": "swift",
                     "stars": 70259
@@ -1400,7 +1400,7 @@
                     "archived": false,
                     "id": 215875945,
                     "language": "LLVM",
-                    "last_commit": "2026-08-19T11:15:02Z",
+                    "last_commit": "2026-08-19T12:14:55Z",
                     "owner": "swiftlang",
                     "repo": "llvm-project",
                     "stars": 1239
@@ -2128,7 +2128,7 @@
             "archived": false,
             "id": 386524895,
             "language": "Python",
-            "last_commit": "2026-08-19T11:06:43Z",
+            "last_commit": "2026-08-19T12:09:26Z",
             "owner": "mvt-project",
             "repo": "mvt",
             "stars": 12911
@@ -2154,8 +2154,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:16:50.254Z",
+    "last_updated": "2026-08-19T12:18:25.179Z",
     "original_repository": "hack-different/apple-knowledge",
+    "original_repository_id": 435649432,
     "original_repository_sha": "cabf98e2053f9e1efa67fc382d70870c1993cb50",
     "enhanced_repository": "enhansome/enhansome-apple-knowledge",
     "enhanced_repository_description": null,
