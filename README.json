@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T16:17:57Z",
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9244
+                "stars": 9247
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-13T10:29:27Z",
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 8962
+                "stars": 8963
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 146060123,
                 "language": "Go",
-                "last_commit": "2026-08-19T02:11:13Z",
+                "last_commit": "2026-08-20T00:52:17Z",
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3650
+                "stars": 3651
               }
             },
             {
@@ -158,7 +158,7 @@
                     "last_commit": "2024-05-31T03:28:20Z",
                     "owner": "onethawt",
                     "repo": "idaplugins-list",
-                    "stars": 3834
+                    "stars": 3833
                   }
                 },
                 {
@@ -203,7 +203,7 @@
                     "last_commit": "2024-12-31T13:21:07Z",
                     "owner": "cellebrite-labs",
                     "repo": "FunctionInliner",
-                    "stars": 229
+                    "stars": 228
                   }
                 },
                 {
@@ -382,7 +382,7 @@
                     "last_commit": "2026-06-18T04:57:29Z",
                     "owner": "AllsafeCyberSecurity",
                     "repo": "awesome-ghidra",
-                    "stars": 1425
+                    "stars": 1426
                   }
                 },
                 {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13120
+            "stars": 13124
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-19T01:21:03Z",
             "owner": "Proteas",
             "repo": "apple-cve",
-            "stars": 180
+            "stars": 189
           }
         }
       ],
@@ -746,7 +746,7 @@
                     "last_commit": "2024-08-13T19:36:10Z",
                     "owner": "sgan81",
                     "repo": "apfs-fuse",
-                    "stars": 2136
+                    "stars": 2135
                   }
                 },
                 {
@@ -1238,10 +1238,10 @@
                     "archived": false,
                     "id": 44838949,
                     "language": "Swift",
-                    "last_commit": "2026-08-19T12:04:57Z",
+                    "last_commit": "2026-08-20T10:55:53Z",
                     "owner": "swiftlang",
                     "repo": "swift",
-                    "stars": 70259
+                    "stars": 70263
                   }
                 }
               ]
@@ -1381,7 +1381,7 @@
                     "last_commit": "2026-08-02T16:01:08Z",
                     "owner": "AsahiLinux",
                     "repo": "docs",
-                    "stars": 2250
+                    "stars": 2251
                   }
                 }
               ]
@@ -1400,7 +1400,7 @@
                     "archived": false,
                     "id": 215875945,
                     "language": "LLVM",
-                    "last_commit": "2026-08-19T12:14:55Z",
+                    "last_commit": "2026-08-20T11:05:04Z",
                     "owner": "swiftlang",
                     "repo": "llvm-project",
                     "stars": 1239
@@ -1512,7 +1512,7 @@
                     "last_commit": "2026-06-10T07:52:18Z",
                     "owner": "libimobiledevice",
                     "repo": "libimobiledevice",
-                    "stars": 8116
+                    "stars": 8120
                   }
                 },
                 {
@@ -1524,10 +1524,10 @@
                     "archived": false,
                     "id": 357904774,
                     "language": "Python",
-                    "last_commit": "2026-08-19T10:35:35Z",
+                    "last_commit": "2026-08-20T08:53:39Z",
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
-                    "stars": 2645
+                    "stars": 2648
                   }
                 },
                 {
@@ -1586,7 +1586,7 @@
                     "last_commit": "2025-12-06T01:14:51Z",
                     "owner": "libimobiledevice",
                     "repo": "usbmuxd",
-                    "stars": 1749
+                    "stars": 1750
                   }
                 },
                 {
@@ -1623,7 +1623,7 @@
                     "last_commit": "2026-06-26T00:07:15Z",
                     "owner": "libimobiledevice",
                     "repo": "idevicerestore",
-                    "stars": 1912
+                    "stars": 1913
                   }
                 }
               ]
@@ -1791,7 +1791,7 @@
                     "last_commit": "2026-07-04T06:54:07Z",
                     "owner": "libyal",
                     "repo": "dtformats",
-                    "stars": 197
+                    "stars": 198
                   }
                 },
                 {
@@ -1806,7 +1806,7 @@
                     "last_commit": "2025-07-25T11:53:18Z",
                     "owner": "ydkhatri",
                     "repo": "UnifiedLogReader",
-                    "stars": 100
+                    "stars": 101
                   }
                 }
               ]
@@ -1856,7 +1856,7 @@
             "last_commit": "2024-02-21T04:10:19Z",
             "owner": "axi0mX",
             "repo": "ipwndfu",
-            "stars": 7393
+            "stars": 7394
           }
         },
         {
@@ -1871,7 +1871,7 @@
             "last_commit": "2022-06-12T08:48:08Z",
             "owner": "LinusHenze",
             "repo": "Fugu14",
-            "stars": 1411
+            "stars": 1409
           }
         },
         {
@@ -1886,7 +1886,7 @@
             "last_commit": "2021-05-11T00:47:15Z",
             "owner": "LinusHenze",
             "repo": "Fugu",
-            "stars": 671
+            "stars": 670
           }
         },
         {
@@ -2128,10 +2128,10 @@
             "archived": false,
             "id": 386524895,
             "language": "Python",
-            "last_commit": "2026-08-19T12:09:26Z",
+            "last_commit": "2026-08-20T00:15:45Z",
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 12911
+            "stars": 12916
           }
         },
         {
@@ -2154,7 +2154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:18:25.179Z",
+    "last_updated": "2026-08-20T11:18:37.223Z",
     "original_repository": "hack-different/apple-knowledge",
     "original_repository_id": 435649432,
     "original_repository_sha": "cabf98e2053f9e1efa67fc382d70870c1993cb50",
