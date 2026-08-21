@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T16:17:57Z",
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9247
+                "stars": 9251
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-13T10:29:27Z",
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 8963
+                "stars": 8965
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 146060123,
                 "language": "Go",
-                "last_commit": "2026-08-20T00:52:17Z",
+                "last_commit": "2026-08-21T10:54:50Z",
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3651
+                "stars": 3653
               }
             },
             {
@@ -67,7 +67,7 @@
                     "last_commit": "2021-09-16T16:44:58Z",
                     "owner": "alephsecurity",
                     "repo": "xnu-qemu-arm64",
-                    "stars": 1461
+                    "stars": 1460
                   }
                 },
                 {
@@ -93,7 +93,7 @@
                 "last_commit": "2021-09-16T16:44:58Z",
                 "owner": "alephsecurity",
                 "repo": "xnu-qemu-arm64",
-                "stars": 1461
+                "stars": 1460
               }
             },
             {
@@ -434,7 +434,7 @@
                     "last_commit": "2022-10-22T16:10:41Z",
                     "owner": "TrungNguyen1909",
                     "repo": "qemu-t8030",
-                    "stars": 2207
+                    "stars": 2206
                   }
                 }
               ]
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-19T01:21:03Z",
             "owner": "Proteas",
             "repo": "apple-cve",
-            "stars": 189
+            "stars": 190
           }
         }
       ],
@@ -1031,7 +1031,7 @@
                     "archived": false,
                     "id": 77568341,
                     "language": "C++",
-                    "last_commit": "2026-01-29T07:53:37Z",
+                    "last_commit": "2026-08-20T23:45:12Z",
                     "owner": "tihmstar",
                     "repo": "img4tool",
                     "stars": 327
@@ -1101,7 +1101,7 @@
                     "last_commit": "2020-10-27T04:41:26Z",
                     "owner": "hack-different",
                     "repo": "go-aapl-integrity",
-                    "stars": 10
+                    "stars": 11
                   }
                 }
               ]
@@ -1138,7 +1138,7 @@
                     "last_commit": "2020-10-27T04:41:26Z",
                     "owner": "hack-different",
                     "repo": "go-aapl-integrity",
-                    "stars": 10
+                    "stars": 11
                   }
                 }
               ]
@@ -1160,7 +1160,7 @@
                     "last_commit": "2020-10-27T04:41:26Z",
                     "owner": "hack-different",
                     "repo": "go-aapl-integrity",
-                    "stars": 10
+                    "stars": 11
                   }
                 }
               ]
@@ -1238,10 +1238,10 @@
                     "archived": false,
                     "id": 44838949,
                     "language": "Swift",
-                    "last_commit": "2026-08-20T10:55:53Z",
+                    "last_commit": "2026-08-21T07:22:29Z",
                     "owner": "swiftlang",
                     "repo": "swift",
-                    "stars": 70263
+                    "stars": 70266
                   }
                 }
               ]
@@ -1400,7 +1400,7 @@
                     "archived": false,
                     "id": 215875945,
                     "language": "LLVM",
-                    "last_commit": "2026-08-20T11:05:04Z",
+                    "last_commit": "2026-08-21T11:14:52Z",
                     "owner": "swiftlang",
                     "repo": "llvm-project",
                     "stars": 1239
@@ -1512,7 +1512,7 @@
                     "last_commit": "2026-06-10T07:52:18Z",
                     "owner": "libimobiledevice",
                     "repo": "libimobiledevice",
-                    "stars": 8120
+                    "stars": 8122
                   }
                 },
                 {
@@ -1524,10 +1524,10 @@
                     "archived": false,
                     "id": 357904774,
                     "language": "Python",
-                    "last_commit": "2026-08-20T08:53:39Z",
+                    "last_commit": "2026-08-21T10:12:52Z",
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
-                    "stars": 2648
+                    "stars": 2653
                   }
                 },
                 {
@@ -1623,7 +1623,7 @@
                     "last_commit": "2026-06-26T00:07:15Z",
                     "owner": "libimobiledevice",
                     "repo": "idevicerestore",
-                    "stars": 1913
+                    "stars": 1914
                   }
                 }
               ]
@@ -1978,7 +1978,7 @@
                 "last_commit": "2026-08-01T10:15:19Z",
                 "owner": "ProcursusTeam",
                 "repo": "Procursus",
-                "stars": 1001
+                "stars": 1002
               }
             },
             {
@@ -1993,7 +1993,7 @@
                 "last_commit": "2026-07-31T15:31:07Z",
                 "owner": "tealbathingsuit",
                 "repo": "ellekit",
-                "stars": 697
+                "stars": 698
               }
             },
             {
@@ -2064,7 +2064,7 @@
             "last_commit": "2025-07-03T07:14:34Z",
             "owner": "checkra1n",
             "repo": "PongoOS",
-            "stars": 2739
+            "stars": 2740
           }
         },
         {
@@ -2131,7 +2131,7 @@
             "last_commit": "2026-08-20T00:15:45Z",
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 12916
+            "stars": 12924
           }
         },
         {
@@ -2154,7 +2154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:18:37.223Z",
+    "last_updated": "2026-08-21T11:17:40.498Z",
     "original_repository": "hack-different/apple-knowledge",
     "original_repository_id": 435649432,
     "original_repository_sha": "cabf98e2053f9e1efa67fc382d70870c1993cb50",
