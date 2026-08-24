@@ -4,7 +4,7 @@ A collection of reverse engineered Apple formats, protocols, or other interestin
 
 [Join us on Discord](https://discord.gg/NAxRYvysuc) - [Discord Rules](https://hackdiffe.rent)
 
-Repo inspired by [Papers we Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,963 | 🐛 3 | 🌐 Shell | 📅 2026-08-24
+Repo inspired by [Papers we Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,966 | 🐛 3 | 🌐 Shell | 📅 2026-08-24
 
 ## Our Tooling Repos
 
@@ -200,8 +200,8 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 
 ### Software Update / Installers
 
-* [Mobile Asset URLs](docs/Mobile_Assets)
 * [`notpeter/apple-installer-checksums`](https://github.com/notpeter/apple-installer-checksums) ⚠️ Archived
+* [Mobile Asset URLs](docs/Mobile_Assets)
 * [ipsw.me](https://ipsw.me)
 * [ipswbeta.dev](https://ipswbeta.dev)
 
@@ -241,17 +241,17 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 * Rosetta2
   * [ProjectChampollion](https://github.com/FFRI/ProjectChampollion/) ⚠️ Archived
 * Swift
-  * [Swift Mangling](https://github.com/apple/swift/blob/main/docs/ABI/Mangling.rst) ⭐ 70,280 | 🐛 9,228 | 🌐 Swift | 📅 2026-08-24
+  * [Swift Mangling](https://github.com/apple/swift/blob/main/docs/ABI/Mangling.rst) ⭐ 70,280 | 🐛 9,230 | 🌐 Swift | 📅 2026-08-24
 
 ### Sandbox or 'Seatbelt'
 
+* [`malus-security/sandblaster`](https://github.com/malus-security/sandblaster) ⭐ 268 | 🐛 6 | 🌐 Python | 📅 2025-04-24
 * [Levin's - The Apple Sandbox](http://newosxbook.com/files/HITSB.pdf)
 * [Apple Sandbox Guide v1.0](https://reverse.put.as/wp-content/uploads/2011/09/Apple-Sandbox-Guide-v1.0.pdf)
 * [OWASP - Reversing the Apple Sandbox](https://owasp.org/www-pdf-archive/OWASP_-_EEE_2015_-_Reversing_the_Apple_Sandbox.pdf)
 * [iBSparkles Breaking Entitlements](https://sparkes.zone/blog/ios/2018/04/06/diving-into-the-kernel-entitlements.html)
 * [stek29: Shenanigans, Shenanigans!](https://stek29.rocks/2018/12/11/shenanigans.html)
 * [argp vs com.apple.security.sandbox](https://census-labs.com/media/sandbox-argp-csw2019-public.pdf)
-* [`malus-security/sandblaster`](https://github.com/malus-security/sandblaster) ⭐ 268 | 🐛 6 | 🌐 Python | 📅 2025-04-24
 
 ### Secure Enclave Processor
 
@@ -299,12 +299,12 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 * Qualcomm
   * [`hack-different/apple-baseband`](https://github.com/hack-different/apple-baseband) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2022-09-17
   * Hexagon DSP
-    * [Hexagon SDK](https://developer.qualcomm.com/software/hexagon-dsp-sdk)
-    * [Hexagon QEMU](https://github.com/Comsecuris/qemu-hexagon) ⭐ 34 | 🐛 1 | 🌐 C | 📅 2019-10-04
-    * [Binary Ninja Hexagon](https://github.com/google/binja-hexagon) ⚠️ Archived
-    * [Hexag00n](https://github.com/programa-stic/hexag00n) ⭐ 119 | 🐛 3 | 🌐 Python | 📅 2017-01-23
     * [IDA Hexagon](https://github.com/gsmk/hexagon) ⭐ 241 | 🐛 1 | 🌐 C | 📅 2025-04-07
     * [idp\_heaxagon](https://github.com/n-o-o-n/idp_hexagon) ⭐ 137 | 🐛 0 | 🌐 C++ | 📅 2026-05-19
+    * [Hexag00n](https://github.com/programa-stic/hexag00n) ⭐ 119 | 🐛 3 | 🌐 Python | 📅 2017-01-23
+    * [Binary Ninja Hexagon](https://github.com/google/binja-hexagon) ⚠️ Archived
+    * [Hexagon QEMU](https://github.com/Comsecuris/qemu-hexagon) ⭐ 34 | 🐛 1 | 🌐 C | 📅 2019-10-04
+    * [Hexagon SDK](https://developer.qualcomm.com/software/hexagon-dsp-sdk)
 
 ### Coprocessors
 
@@ -318,7 +318,7 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 * [`osy/ThunderboltPatcher`](https://github.com/osy/ThunderboltPatcher) ⭐ 106 | 🐛 2 | 🌐 Objective-C | 📅 2019-11-11
 * Basically all iDevice / iTunes
   * [`libimobiledevice/libimobiledevice`](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,126 | 🐛 848 | 🌐 C | 📅 2026-06-10
-  * [`doronz88/pymobiledevice3`](https://github.com/doronz88/pymobiledevice3) ⭐ 2,661 | 🐛 38 | 🌐 Python | 📅 2026-08-23
+  * [`doronz88/pymobiledevice3`](https://github.com/doronz88/pymobiledevice3) ⭐ 2,662 | 🐛 38 | 🌐 Python | 📅 2026-08-24
   * [`hack-different/python-libimobiledevice`](https://github.com/hack-different/python-libimobiledevice) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2022-02-16
   * [libimobiledevice.org](https://libimobiledevice.org)
 * DFU / Recovery
@@ -432,7 +432,7 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 
 ## Safety / Protection
 
-* [`mvt-project/mvt`](https://github.com/mvt-project/mvt) ⭐ 12,952 | 🐛 41 | 🌐 Python | 📅 2026-08-23
+* [`mvt-project/mvt`](https://github.com/mvt-project/mvt) ⭐ 12,952 | 🐛 43 | 🌐 Python | 📅 2026-08-23
 * [`rickmark/isafety`](https://github.com/rickmark/isafety) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2026-01-31
 * [Mobile Verification Toolkit](https://docs.mvt.re/en/latest/)
 

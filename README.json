@@ -37,7 +37,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "ipsw",
               "description": null,
               "children": [],
               "repo_info": {
@@ -52,7 +52,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "xnu-qemu-arm64",
               "description": null,
               "children": [
                 {
@@ -72,7 +72,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "xnu-qemu-arm64-tools",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -113,7 +113,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "toolchain",
               "description": null,
               "children": [],
               "repo_info": {
@@ -148,7 +148,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "idaplugins-list",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -163,7 +163,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "GhIDA",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -178,7 +178,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "retdec-idaplugin",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -193,7 +193,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "FunctionInliner",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -208,7 +208,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "ida-iboot-loader",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -223,7 +223,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "PacXplorer",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -238,7 +238,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "ida_kernelcache",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -253,7 +253,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "iBoot-IDA",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -268,7 +268,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "sephelper",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -290,7 +290,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "bn-dyldsharedcache",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -305,7 +305,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "ObjectiveNinja",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -320,7 +320,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "seprom-loader",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -335,7 +335,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "binja_kc",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -350,7 +350,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "iBoot-Binja-Loader",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -372,7 +372,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "awesome-ghidra",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -387,7 +387,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "ghidra_kernelcache",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -409,7 +409,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "qira",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -497,7 +497,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "apple-cve",
           "description": null,
           "children": [],
           "repo_info": {
@@ -523,7 +523,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "apple-bce-drv",
               "description": null,
               "children": [],
               "repo_info": {
@@ -545,7 +545,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "internalblue",
               "description": null,
               "children": [],
               "repo_info": {
@@ -560,7 +560,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "frankenstein",
               "description": null,
               "children": [],
               "repo_info": {
@@ -582,7 +582,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "VirtualSMC",
               "description": null,
               "children": [],
               "repo_info": {
@@ -597,7 +597,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "smcutil",
               "description": "Create SMC binaries from update payloads",
               "children": [],
               "repo_info": {
@@ -620,7 +620,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "Lilu",
           "description": null,
           "children": [],
           "repo_info": {
@@ -635,7 +635,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "AMFIExemption",
           "description": null,
           "children": [],
           "repo_info": {
@@ -663,7 +663,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "darwin-xnu",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -685,7 +685,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "iBootRE",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -736,7 +736,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "apfs-fuse",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -751,7 +751,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "libfsapfs",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -766,7 +766,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "apfs.ksy",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -788,7 +788,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "bom",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -810,7 +810,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "darling-dmg",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -825,7 +825,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "encrypteddmg",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -854,7 +854,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "libplist",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -876,7 +876,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "titl",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -891,7 +891,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "libitlp",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -913,7 +913,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "InflatableDonkey",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -928,7 +928,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "libibackup",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -952,12 +952,63 @@
           "children": [
             {
               "node_type": "group",
+              "title": "AirPlay2",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "shairport-sync",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19316865,
+                    "language": "C",
+                    "last_commit": "2026-08-24T07:14:40Z",
+                    "owner": "mikebrady",
+                    "repo": "shairport-sync",
+                    "stars": 8825
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image, Sound and Other Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "apple-installer-checksums",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 50649406,
+                "language": null,
+                "last_commit": "2023-07-16T18:12:37Z",
+                "owner": "notpeter",
+                "repo": "apple-installer-checksums",
+                "stars": 843
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Software Update / Installers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
               "title": "Mach-O File Types",
               "description": "Mach-O / Signing / Entitlements",
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "ldid",
                   "description": "Alternative to sbingner/ldid with some updates for iOS 15 and general fixes",
                   "children": [],
                   "repo_info": {
@@ -972,7 +1023,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "ldid",
                   "description": "Codesign tool",
                   "children": [],
                   "repo_info": {
@@ -1009,7 +1060,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "img4lib",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1024,7 +1075,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "img4tool",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1039,7 +1090,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "PyIMG4",
                   "description": "A Python library/CLI tool for parsing IMG4",
                   "children": [],
                   "repo_info": {
@@ -1054,7 +1105,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "img4helper",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1076,7 +1127,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "trustcache",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1091,7 +1142,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "go-aapl-integrity",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1113,7 +1164,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "efivalidate",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1128,7 +1179,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "go-aapl-integrity",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1150,7 +1201,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "go-aapl-integrity",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1172,7 +1223,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "DyldExtractor",
                   "description": "Fixes up linking",
                   "children": [],
                   "repo_info": {
@@ -1187,7 +1238,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "yolo_dsc",
                   "description": "Used as last resort and depend on Xcode",
                   "children": [],
                   "repo_info": {
@@ -1255,6 +1306,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "sandblaster",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113375448,
+                "language": "Python",
+                "last_commit": "2025-04-24T08:53:20Z",
+                "owner": "malus-security",
+                "repo": "sandblaster",
+                "stars": 268
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sandbox or 'Seatbelt'"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Attack Secure Boot of SEP - blackbird",
               "description": null,
               "children": [],
@@ -1270,7 +1343,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sepsplit-rs",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1300,7 +1373,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sepfinderbot",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1320,7 +1393,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "AppleSEPFirmware",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1400,7 +1473,7 @@
                     "archived": false,
                     "id": 215875945,
                     "language": "LLVM",
-                    "last_commit": "2026-08-24T11:15:04Z",
+                    "last_commit": "2026-08-24T14:10:20Z",
                     "owner": "swiftlang",
                     "repo": "llvm-project",
                     "stars": 1240
@@ -1419,6 +1492,110 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "group",
+          "title": "Qualcomm",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "apple-baseband",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484897159,
+                "language": "Python",
+                "last_commit": "2022-09-17T00:41:56Z",
+                "owner": "hack-different",
+                "repo": "apple-baseband",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Hexagon DSP",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "IDA Hexagon",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10597411,
+                    "language": "C",
+                    "last_commit": "2025-04-07T13:58:58Z",
+                    "owner": "gsmk",
+                    "repo": "hexagon",
+                    "stars": 241
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "idp_heaxagon",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275816731,
+                    "language": "C++",
+                    "last_commit": "2026-05-19T14:10:21Z",
+                    "owner": "n-o-o-n",
+                    "repo": "idp_hexagon",
+                    "stars": 137
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hexag00n",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62027193,
+                    "language": "Python",
+                    "last_commit": "2017-01-23T18:44:02Z",
+                    "owner": "programa-stic",
+                    "repo": "hexag00n",
+                    "stars": 119
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Binary Ninja Hexagon",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 327445814,
+                    "language": "Python",
+                    "last_commit": "2024-02-29T05:56:48Z",
+                    "owner": "google",
+                    "repo": "binja-hexagon",
+                    "stars": 118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hexagon QEMU",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 212835268,
+                    "language": "C",
+                    "last_commit": "2019-10-04T14:37:31Z",
+                    "owner": "Comsecuris",
+                    "repo": "qemu-hexagon",
+                    "stars": 34
+                  }
+                }
+              ]
+            }
+          ]
+        },
         {
           "children": [
             {
@@ -1467,7 +1644,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "rvi_capture",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1482,7 +1659,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "ThunderboltPatcher",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1502,7 +1679,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "libimobiledevice",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1517,22 +1694,22 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "pymobiledevice3",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 357904774,
                     "language": "Python",
-                    "last_commit": "2026-08-23T14:38:05Z",
+                    "last_commit": "2026-08-24T11:28:58Z",
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
-                    "stars": 2661
+                    "stars": 2662
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "python-libimobiledevice",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1554,7 +1731,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "libirecovery",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1576,7 +1753,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "usbmuxd",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1591,7 +1768,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "demuxusb",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1613,7 +1790,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "idevicerestore",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1635,7 +1812,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "apple_utdm",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1657,7 +1834,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "macvdmtool",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1686,7 +1863,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "openwifipass",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1708,7 +1885,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "apple_net_recovery",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1737,7 +1914,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "apple-diagnostics-format",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1818,7 +1995,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "demuxusb",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1846,7 +2023,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "ipwndfu",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1876,7 +2053,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "Fugu",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1906,7 +2083,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "gaster",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1936,7 +2113,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "ipwnder_lite",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1951,7 +2128,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "greenpois0n",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1968,7 +2145,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "Procursus",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1998,7 +2175,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "substitute",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2013,7 +2190,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "syringe",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2028,7 +2205,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "substitute",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2121,7 +2298,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "mvt",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2136,7 +2313,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "isafety",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2154,7 +2331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:18:51.437Z",
+    "last_updated": "2026-08-24T14:13:58.805Z",
     "original_repository": "hack-different/apple-knowledge",
     "original_repository_id": 435649432,
     "original_repository_sha": "cabf98e2053f9e1efa67fc382d70870c1993cb50",
