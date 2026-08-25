@@ -4,7 +4,7 @@ A collection of reverse engineered Apple formats, protocols, or other interestin
 
 [Join us on Discord](https://discord.gg/NAxRYvysuc) - [Discord Rules](https://hackdiffe.rent)
 
-Repo inspired by [Papers we Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,966 | 🐛 3 | 🌐 Shell | 📅 2026-08-24
+Repo inspired by [Papers we Love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,977 | 🐛 3 | 🌐 Shell | 📅 2026-08-24
 
 ## Our Tooling Repos
 
@@ -34,7 +34,7 @@ information about creating and extending data format see [Data Format Guidance](
 
 Updates and additions there should automatically be reflected in the documents
 
-[`hack-different/apple-knowledge/_data`](https://github.com/hack-different/apple-knowledge/tree/main/_data) ⭐ 1,375 | 🐛 3 | 🌐 Ruby | 📅 2026-08-16
+[`hack-different/apple-knowledge/_data`](https://github.com/hack-different/apple-knowledge/tree/main/_data) ⭐ 1,378 | 🐛 3 | 🌐 Ruby | 📅 2026-08-16
 
 Another authoritative source of information is the open source code released by Apple themselves at one of the
 following locations:
@@ -52,9 +52,9 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 
 ### Tools for Binary Analysis and Modification
 
-* [Unicorn Engine](https://github.com/unicorn-engine/unicorn) ⭐ 9,259 | 🐛 216 | 🌐 C | 📅 2026-07-30
-* [Capstone Engine](https://github.com/aquynh/capstone) ⭐ 8,972 | 🐛 365 | 🌐 C | 📅 2026-08-22
-* [`blacktop/ipsw`](https://github.com/blacktop/ipsw) ⭐ 3,656 | 🐛 10 | 🌐 Go | 📅 2026-08-24
+* [Unicorn Engine](https://github.com/unicorn-engine/unicorn) ⭐ 9,263 | 🐛 216 | 🌐 C | 📅 2026-07-30
+* [Capstone Engine](https://github.com/aquynh/capstone) ⭐ 8,975 | 🐛 365 | 🌐 C | 📅 2026-08-24
+* [`blacktop/ipsw`](https://github.com/blacktop/ipsw) ⭐ 3,660 | 🐛 6 | 🌐 Go | 📅 2026-08-25
 * [`alephsecurity/xnu-qemu-arm64`](https://github.com/alephsecurity/xnu-qemu-arm64) ⭐ 1,460 | 🐛 20 | 🌐 C | 📅 2021-09-16
   * [Build iOS on QEMU](https://github.com/alephsecurity/xnu-qemu-arm64/wiki/Build-iOS-on-QEMU) ⭐ 1,460 | 🐛 20 | 🌐 C | 📅 2021-09-16
   * [`alephsecurity/xnu-qemu-arm64-tools`](https://github.com/alephsecurity/xnu-qemu-arm64-tools) ⭐ 181 | 🐛 13 | 🌐 C | 📅 2021-02-21
@@ -79,7 +79,7 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
   * [`EliseZeroTwo/iBoot-Binja-Loader`](https://github.com/EliseZeroTwo/iBoot-Binja-Loader/) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2023-02-24
 * [VisUAL ARM Simulator](https://salmanarif.bitbucket.io/visual/index.html)
 * [Ghidra Disassembler](https://ghidra-sre.org)
-  * [`AllsafeCyberSecurity/awesome-ghidra`](https://github.com/AllsafeCyberSecurity/awesome-ghidra) ⭐ 1,426 | 🐛 3 | 📅 2026-06-18
+  * [`AllsafeCyberSecurity/awesome-ghidra`](https://github.com/AllsafeCyberSecurity/awesome-ghidra) ⭐ 1,427 | 🐛 3 | 📅 2026-06-18
   * [`0x36/ghidra_kernelcache`](https://github.com/0x36/ghidra_kernelcache) ⭐ 370 | 🐛 8 | 🌐 Python | 📅 2022-11-06
 * [Hopper Disassembler](https://www.hopperapp.com)
 * [QEMU](https://qemu.readthedocs.io/en/latest/)
@@ -90,10 +90,10 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 
 ## Guides and General
 
-* [OWASP: iOS Tampering and Reverse Engineering](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md) ⭐ 13,131 | 🐛 233 | 🌐 Python | 📅 2026-08-14
+* [OWASP: iOS Tampering and Reverse Engineering](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md) ⭐ 13,132 | 🐛 233 | 🌐 Python | 📅 2026-08-14
 * [kpwn / qwertyoruiop's Wiki](https://github.com/kpwn/iOSRE/tree/master/wiki) ⭐ 1,180 | 🐛 0 | 🌐 Shell | 📅 2018-06-30
 * [kpwn / qwertyoruiop's Papers](https://github.com/kpwn/iOSRE/tree/master/resources/papers) ⭐ 1,180 | 🐛 0 | 🌐 Shell | 📅 2018-06-30
-* [`Proteas/apple-cve`](https://github.com/Proteas/apple-cve) ⭐ 191 | 🐛 0 | 📅 2026-08-19
+* [`Proteas/apple-cve`](https://github.com/Proteas/apple-cve) ⭐ 192 | 🐛 0 | 📅 2026-08-25
 * [About Apple Prototype and CPFM](docs/Prototypes)
 * [Kernel Debug Kit](docs/KDK)
 * [\*OS Internals by Jonathan Levin](http://newosxbook.com/index.php)
@@ -218,7 +218,7 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 * img4 - Apple signed images, version 4
   * [`xerub/img4lib`](https://github.com/xerub/img4lib) ⭐ 369 | 🐛 6 | 🌐 C | 📅 2023-02-11
   * [`tihmstar/img4tool`](https://github.com/tihmstar/img4tool) ⭐ 327 | 🐛 1 | 🌐 C++ | 📅 2026-08-20
-  * [`m1stadev/PyIMG4`](https://github.com/m1stadev/PyIMG4) ⭐ 67 | 🐛 16 | 🌐 Python | 📅 2026-08-17 - A Python library/CLI tool for parsing IMG4
+  * [`m1stadev/PyIMG4`](https://github.com/m1stadev/PyIMG4) ⭐ 67 | 🐛 16 | 🌐 Python | 📅 2026-08-24 - A Python library/CLI tool for parsing IMG4
   * [`h3adshotzz/img4helper`](https://github.com/h3adshotzz/img4helper) ⚠️ Archived
   * [TheiPhoneWiki's documentation on IMG4 files](https://www.theiphonewiki.com/wiki/IMG4_File_Format)
 * TrustCache - Pre-authorized Binary Hashes
@@ -241,7 +241,7 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 * Rosetta2
   * [ProjectChampollion](https://github.com/FFRI/ProjectChampollion/) ⚠️ Archived
 * Swift
-  * [Swift Mangling](https://github.com/apple/swift/blob/main/docs/ABI/Mangling.rst) ⭐ 70,280 | 🐛 9,230 | 🌐 Swift | 📅 2026-08-24
+  * [Swift Mangling](https://github.com/apple/swift/blob/main/docs/ABI/Mangling.rst) ⭐ 70,282 | 🐛 9,236 | 🌐 Swift | 📅 2026-08-25
 
 ### Sandbox or 'Seatbelt'
 
@@ -278,10 +278,10 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
   * [ARMv8-A Tools](https://developer.arm.com/products/architecture/cpu-architecture/a-profile/exploration-tools)
   * [ARM Software Standards](https://developer.arm.com/architectures/system-architectures/software-standards)
 * Apple CPUs
-  * [Asahi: Introduction to Apple Silicon](https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon) ⭐ 2,256 | 🐛 20 | 🌐 HTML | 📅 2026-08-02
+  * [Asahi: Introduction to Apple Silicon](https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon) ⭐ 2,257 | 🐛 20 | 🌐 HTML | 📅 2026-08-02
   * [dougallj's applecpu](https://dougallj.github.io/applecpu/firestorm.html)
 * Compilers
-  * [ARM Clang PAC ABI](https://github.com/apple/llvm-project/blob/apple/main/clang/docs/PointerAuthentication.rst) ⭐ 1,240 | 🐛 610 | 🌐 LLVM | 📅 2026-08-24
+  * [ARM Clang PAC ABI](https://github.com/apple/llvm-project/blob/apple/main/clang/docs/PointerAuthentication.rst) ⭐ 1,240 | 🐛 620 | 🌐 LLVM | 📅 2026-08-25
 * ARM Mitigations
   * [APRR](https://blog.siguza.net/APRR/)
   * [PAN](https://blog.siguza.net/PAN/)
@@ -317,8 +317,8 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 * [`gh2o/rvi_capture`](https://github.com/gh2o/rvi_capture) ⭐ 216 | 🐛 2 | 🌐 Python | 📅 2024-03-26
 * [`osy/ThunderboltPatcher`](https://github.com/osy/ThunderboltPatcher) ⭐ 106 | 🐛 2 | 🌐 Objective-C | 📅 2019-11-11
 * Basically all iDevice / iTunes
-  * [`libimobiledevice/libimobiledevice`](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,126 | 🐛 848 | 🌐 C | 📅 2026-06-10
-  * [`doronz88/pymobiledevice3`](https://github.com/doronz88/pymobiledevice3) ⭐ 2,662 | 🐛 38 | 🌐 Python | 📅 2026-08-24
+  * [`libimobiledevice/libimobiledevice`](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,127 | 🐛 848 | 🌐 C | 📅 2026-06-10
+  * [`doronz88/pymobiledevice3`](https://github.com/doronz88/pymobiledevice3) ⭐ 2,662 | 🐛 38 | 🌐 Python | 📅 2026-08-25
   * [`hack-different/python-libimobiledevice`](https://github.com/hack-different/python-libimobiledevice) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2022-02-16
   * [libimobiledevice.org](https://libimobiledevice.org)
 * DFU / Recovery
@@ -328,7 +328,7 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
   * [`libimobiledevice/usbmuxd`](https://github.com/libimobiledevice/usbmuxd) ⭐ 1,753 | 🐛 117 | 🌐 C | 📅 2025-12-06
   * [`t8012/demuxusb`](https://github.com/t8012/demuxusb) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2026-08-14
 * `com.apple.restored` - iDevice Restore Protocol
-  * [`libimobiledevice/idevicerestore`](https://github.com/libimobiledevice/idevicerestore) ⭐ 1,915 | 🐛 332 | 🌐 C | 📅 2026-08-23
+  * [`libimobiledevice/idevicerestore`](https://github.com/libimobiledevice/idevicerestore) ⭐ 1,917 | 🐛 332 | 🌐 C | 📅 2026-08-23
 * UTDM - USB Target Disk Mode
   * [`rickmark/apple_utdm`](https://github.com/rickmark/apple_utdm) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2020-02-27
 * USB-C Power Delivery - Vendor Defined Messages
@@ -345,7 +345,7 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 ### Network / Wireless / Transit
 
 * Apple Wi-Fi Password Sharing
-  * [`seemoo-lab/openwifipass`](https://github.com/seemoo-lab/openwifipass) ⭐ 835 | 🐛 3 | 🌐 Python | 📅 2026-08-17
+  * [`seemoo-lab/openwifipass`](https://github.com/seemoo-lab/openwifipass) ⭐ 836 | 🐛 3 | 🌐 Python | 📅 2026-08-17
 * AWDL - Apple Wireless Distribution Link
   * [Findings from Ian Beer, Project Zero](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html)
 * Bluetooth Bonjour (Service Discovery)
@@ -387,7 +387,7 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 * [`axi0mX/ipwndfu`](https://github.com/axi0mX/ipwndfu) ⭐ 7,396 | 🐛 168 | 🌐 Python | 📅 2024-02-21
 * [Fugu14 writeup](https://github.com/LinusHenze/Fugu14/blob/master/Writeup.pdf) ⚠️ Archived
 * [`LinusHenze/Fugu`](https://github.com/LinusHenze/Fugu) ⚠️ Archived
-* [rootlessJB writeup](https://github.com/jakeajames/rootlessJB3/blob/master/writeup.pdf) ⭐ 362 | 🐛 32 | 🌐 C | 📅 2019-07-26
+* [rootlessJB writeup](https://github.com/jakeajames/rootlessJB3/blob/master/writeup.pdf) ⭐ 363 | 🐛 32 | 🌐 C | 📅 2019-07-26
 * [`0x7ff/gaster`](https://github.com/0x7ff/gaster) ⭐ 218 | 🐛 8 | 🌐 C | 📅 2023-02-02
 * [limera1n](https://github.com/Chronic-Dev/syringe/blob/master/syringe/exploits/limera1n/limera1n.c) ⭐ 188 | 🐛 4 | 🌐 C | 📅 2021-08-21
 * [`dora2-iOS/ipwnder_lite`](https://github.com/dora2-iOS/ipwnder_lite) ⚠️ Archived
@@ -408,7 +408,7 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 
 ### Jailbreak Tooling
 
-* [`ProcursusTeam/Procursus`](https://github.com/ProcursusTeam/Procursus) ⭐ 1,002 | 🐛 150 | 🌐 Makefile | 📅 2026-08-01
+* [`ProcursusTeam/Procursus`](https://github.com/ProcursusTeam/Procursus) ⭐ 1,003 | 🐛 150 | 🌐 Makefile | 📅 2026-08-01
 * [ElleKit](https://github.com/evelyneee/ellekit) ⭐ 698 | 🐛 11 | 🌐 Swift | 📅 2026-07-31
 * [`comex/substitute`](https://github.com/comex/substitute) ⭐ 587 | 🐛 10 | 🌐 C | 📅 2019-09-01
 * [`Chronic-Dev/syringe`](https://github.com/Chronic-Dev/syringe) ⭐ 188 | 🐛 4 | 🌐 C | 📅 2021-08-21
@@ -432,7 +432,7 @@ See [docs/Binary\_Tooling](docs/Binary_Tooling)
 
 ## Safety / Protection
 
-* [`mvt-project/mvt`](https://github.com/mvt-project/mvt) ⭐ 12,952 | 🐛 43 | 🌐 Python | 📅 2026-08-23
+* [`mvt-project/mvt`](https://github.com/mvt-project/mvt) ⭐ 12,954 | 🐛 43 | 🌐 Python | 📅 2026-08-23
 * [`rickmark/isafety`](https://github.com/rickmark/isafety) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2026-01-31
 * [Mobile Verification Toolkit](https://docs.mvt.re/en/latest/)
 
@@ -495,7 +495,7 @@ Documents also licensed under the CC-BY-SA
 ](http://creativecommons.org/licenses/by-sa/4.0/){rel=license}
 [Apple Knowledge](http://creativecommons.org/licenses/by-sa/4.0/){:xmlns:dct="<http://purl.org/dc/terms/>",
 :property="dct:title"} by
-[Hack Different](https://github.com/hack-different/apple-knowledge) ⭐ 1,375 | 🐛 3 | 🌐 Ruby | 📅 2026-08-16{:xmlns:cc="<http://creativecommons.org/ns#>",
+[Hack Different](https://github.com/hack-different/apple-knowledge) ⭐ 1,378 | 🐛 3 | 🌐 Ruby | 📅 2026-08-16{:xmlns:cc="<http://creativecommons.org/ns#>",
 :property="cc:attributionName", :rel="cc:attributionURL"}
 is licensed under a \[Creative Commons Attribution-ShareAlike 4.0 International License]\(<http://creativecommons.org/>
 licenses/by-sa/4.0/){:rel="license"}
@@ -525,4 +525,4 @@ Also dedicated to the volunteer work of those who use this for good, and deny th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

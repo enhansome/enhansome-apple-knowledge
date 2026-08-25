@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T16:17:57Z",
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9259
+                "stars": 9263
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 14735429,
                 "language": "C",
-                "last_commit": "2026-08-22T12:04:42Z",
+                "last_commit": "2026-08-24T16:00:15Z",
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 8972
+                "stars": 8975
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 146060123,
                 "language": "Go",
-                "last_commit": "2026-08-24T08:07:06Z",
+                "last_commit": "2026-08-25T02:37:22Z",
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3656
+                "stars": 3660
               }
             },
             {
@@ -382,7 +382,7 @@
                     "last_commit": "2026-06-18T04:57:29Z",
                     "owner": "AllsafeCyberSecurity",
                     "repo": "awesome-ghidra",
-                    "stars": 1426
+                    "stars": 1427
                   }
                 },
                 {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13131
+            "stars": 13132
           }
         },
         {
@@ -504,10 +504,10 @@
             "archived": false,
             "id": 164427678,
             "language": null,
-            "last_commit": "2026-08-19T01:21:03Z",
+            "last_commit": "2026-08-25T01:15:11Z",
             "owner": "Proteas",
             "repo": "apple-cve",
-            "stars": 191
+            "stars": 192
           }
         }
       ],
@@ -964,7 +964,7 @@
                     "archived": false,
                     "id": 19316865,
                     "language": "C",
-                    "last_commit": "2026-08-24T07:14:40Z",
+                    "last_commit": "2026-08-24T17:49:54Z",
                     "owner": "mikebrady",
                     "repo": "shairport-sync",
                     "stars": 8825
@@ -1097,7 +1097,7 @@
                     "archived": false,
                     "id": 456675066,
                     "language": "Python",
-                    "last_commit": "2026-08-17T21:40:29Z",
+                    "last_commit": "2026-08-24T21:13:12Z",
                     "owner": "m1stadev",
                     "repo": "PyIMG4",
                     "stars": 67
@@ -1289,10 +1289,10 @@
                     "archived": false,
                     "id": 44838949,
                     "language": "Swift",
-                    "last_commit": "2026-08-24T07:25:29Z",
+                    "last_commit": "2026-08-25T05:34:23Z",
                     "owner": "swiftlang",
                     "repo": "swift",
-                    "stars": 70280
+                    "stars": 70282
                   }
                 }
               ]
@@ -1454,7 +1454,7 @@
                     "last_commit": "2026-08-02T16:01:08Z",
                     "owner": "AsahiLinux",
                     "repo": "docs",
-                    "stars": 2256
+                    "stars": 2257
                   }
                 }
               ]
@@ -1473,7 +1473,7 @@
                     "archived": false,
                     "id": 215875945,
                     "language": "LLVM",
-                    "last_commit": "2026-08-24T14:10:20Z",
+                    "last_commit": "2026-08-25T06:04:02Z",
                     "owner": "swiftlang",
                     "repo": "llvm-project",
                     "stars": 1240
@@ -1689,7 +1689,7 @@
                     "last_commit": "2026-06-10T07:52:18Z",
                     "owner": "libimobiledevice",
                     "repo": "libimobiledevice",
-                    "stars": 8126
+                    "stars": 8127
                   }
                 },
                 {
@@ -1701,7 +1701,7 @@
                     "archived": false,
                     "id": 357904774,
                     "language": "Python",
-                    "last_commit": "2026-08-24T11:28:58Z",
+                    "last_commit": "2026-08-25T06:06:55Z",
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
                     "stars": 2662
@@ -1800,7 +1800,7 @@
                     "last_commit": "2026-08-23T02:01:06Z",
                     "owner": "libimobiledevice",
                     "repo": "idevicerestore",
-                    "stars": 1915
+                    "stars": 1917
                   }
                 }
               ]
@@ -1873,7 +1873,7 @@
                     "last_commit": "2026-08-17T12:30:12Z",
                     "owner": "seemoo-lab",
                     "repo": "openwifipass",
-                    "stars": 835
+                    "stars": 836
                   }
                 }
               ]
@@ -2078,7 +2078,7 @@
             "last_commit": "2019-07-26T15:28:59Z",
             "owner": "jakeajames",
             "repo": "rootlessJB3",
-            "stars": 362
+            "stars": 363
           }
         },
         {
@@ -2155,7 +2155,7 @@
                 "last_commit": "2026-08-01T10:15:19Z",
                 "owner": "ProcursusTeam",
                 "repo": "Procursus",
-                "stars": 1002
+                "stars": 1003
               }
             },
             {
@@ -2308,7 +2308,7 @@
             "last_commit": "2026-08-23T08:06:10Z",
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 12952
+            "stars": 12954
           }
         },
         {
@@ -2331,7 +2331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:58.805Z",
+    "last_updated": "2026-08-25T06:06:59.249Z",
     "original_repository": "hack-different/apple-knowledge",
     "original_repository_id": 435649432,
     "original_repository_sha": "cabf98e2053f9e1efa67fc382d70870c1993cb50",
