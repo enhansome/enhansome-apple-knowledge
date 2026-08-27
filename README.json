@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 41107037,
                 "language": "C",
-                "last_commit": "2026-07-30T16:17:57Z",
+                "last_commit": "2026-08-27T11:23:41Z",
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9270
+                "stars": 9269
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T16:00:15Z",
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 8975
+                "stars": 8976
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-26T18:08:04Z",
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3669
+                "stars": 3670
               }
             },
             {
@@ -203,7 +203,7 @@
                     "last_commit": "2024-12-31T13:21:07Z",
                     "owner": "cellebrite-labs",
                     "repo": "FunctionInliner",
-                    "stars": 228
+                    "stars": 229
                   }
                 },
                 {
@@ -477,7 +477,7 @@
             "last_commit": "2018-06-30T13:23:49Z",
             "owner": "kpwn",
             "repo": "iOSRE",
-            "stars": 1180
+            "stars": 1179
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2018-06-30T13:23:49Z",
             "owner": "kpwn",
             "repo": "iOSRE",
-            "stars": 1180
+            "stars": 1179
           }
         },
         {
@@ -967,7 +967,7 @@
                     "last_commit": "2026-08-26T16:18:14Z",
                     "owner": "mikebrady",
                     "repo": "shairport-sync",
-                    "stars": 8827
+                    "stars": 8828
                   }
                 }
               ]
@@ -1289,10 +1289,10 @@
                     "archived": false,
                     "id": 44838949,
                     "language": "Swift",
-                    "last_commit": "2026-08-27T11:03:12Z",
+                    "last_commit": "2026-08-27T20:16:24Z",
                     "owner": "swiftlang",
                     "repo": "swift",
-                    "stars": 70302
+                    "stars": 70303
                   }
                 }
               ]
@@ -1454,7 +1454,7 @@
                     "last_commit": "2026-08-02T16:01:08Z",
                     "owner": "AsahiLinux",
                     "repo": "docs",
-                    "stars": 2263
+                    "stars": 2264
                   }
                 }
               ]
@@ -1473,7 +1473,7 @@
                     "archived": false,
                     "id": 215875945,
                     "language": "LLVM",
-                    "last_commit": "2026-08-27T11:20:00Z",
+                    "last_commit": "2026-08-27T20:50:08Z",
                     "owner": "swiftlang",
                     "repo": "llvm-project",
                     "stars": 1240
@@ -1689,7 +1689,7 @@
                     "last_commit": "2026-06-10T07:52:18Z",
                     "owner": "libimobiledevice",
                     "repo": "libimobiledevice",
-                    "stars": 8135
+                    "stars": 8136
                   }
                 },
                 {
@@ -1701,7 +1701,7 @@
                     "archived": false,
                     "id": 357904774,
                     "language": "Python",
-                    "last_commit": "2026-08-26T19:23:07Z",
+                    "last_commit": "2026-08-27T19:23:27Z",
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
                     "stars": 2668
@@ -2033,7 +2033,7 @@
             "last_commit": "2024-02-21T04:10:19Z",
             "owner": "axi0mX",
             "repo": "ipwndfu",
-            "stars": 7397
+            "stars": 7396
           }
         },
         {
@@ -2155,7 +2155,7 @@
                 "last_commit": "2026-08-01T10:15:19Z",
                 "owner": "ProcursusTeam",
                 "repo": "Procursus",
-                "stars": 1002
+                "stars": 1001
               }
             },
             {
@@ -2241,7 +2241,7 @@
             "last_commit": "2025-07-03T07:14:34Z",
             "owner": "checkra1n",
             "repo": "PongoOS",
-            "stars": 2746
+            "stars": 2747
           }
         },
         {
@@ -2305,10 +2305,10 @@
             "archived": false,
             "id": 386524895,
             "language": "Python",
-            "last_commit": "2026-08-26T09:17:17Z",
+            "last_commit": "2026-08-27T19:06:30Z",
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 12969
+            "stars": 12971
           }
         },
         {
@@ -2331,7 +2331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:14.248Z",
+    "last_updated": "2026-08-27T20:51:40.182Z",
     "original_repository_info": {
       "archived": false,
       "id": 435649432,
@@ -2339,7 +2339,7 @@
       "last_commit": "2026-08-16T23:57:35Z",
       "owner": "hack-different",
       "repo": "apple-knowledge",
-      "stars": 1379
+      "stars": 1380
     },
     "original_repository_sha": "cabf98e2053f9e1efa67fc382d70870c1993cb50",
     "enhanced_repository": "enhansome/enhansome-apple-knowledge",
