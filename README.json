@@ -12,12 +12,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+                "homepage": "http://www.unicorn-engine.org",
                 "id": 41107037,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T09:09:56Z",
+                "open_issues": 213,
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9270
+                "stars": 9271,
+                "topics": [
+                  "arm",
+                  "arm64",
+                  "cpu",
+                  "cpu-emulator",
+                  "emulator",
+                  "framework",
+                  "m68k",
+                  "mips",
+                  "powerpc",
+                  "reverse-engineering",
+                  "riscv",
+                  "s390x",
+                  "security",
+                  "sparc",
+                  "systemz",
+                  "tricore",
+                  "x86",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -28,12 +52,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+                "homepage": "http://www.capstone-engine.org",
                 "id": 14735429,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-28T14:18:08Z",
+                "open_issues": 367,
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 8979
+                "stars": 8979,
+                "topics": [
+                  "arm",
+                  "arm64",
+                  "bpf",
+                  "disassembler",
+                  "ethereum",
+                  "framework",
+                  "m0s65xx",
+                  "m680x",
+                  "m68k",
+                  "mips",
+                  "powerpc",
+                  "reverse-engineering",
+                  "riscv",
+                  "security",
+                  "sparc",
+                  "systemz",
+                  "tms320c64x",
+                  "webassembly",
+                  "x86",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -44,12 +94,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS/macOS Research Swiss Army Knife",
+                "homepage": "https://blacktop.github.io/ipsw",
                 "id": 146060123,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:35:37Z",
+                "open_issues": 7,
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3674
+                "stars": 3674,
+                "topics": [
+                  "apple",
+                  "class-dump",
+                  "dyld",
+                  "dyld-shared-cache",
+                  "firmware",
+                  "golang",
+                  "img4",
+                  "ios",
+                  "ipsw",
+                  "kernelcache",
+                  "lzfse",
+                  "lzss",
+                  "macho",
+                  "macho-parser",
+                  "macos",
+                  "ota",
+                  "swift",
+                  "swift-dump"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -65,12 +139,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 190453050,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-09-16T16:44:58Z",
+                    "open_issues": 20,
                     "owner": "alephsecurity",
                     "repo": "xnu-qemu-arm64",
-                    "stars": 1460
+                    "stars": 1460,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -81,24 +160,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 190453793,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2021-02-21T21:27:01Z",
+                    "open_issues": 13,
                     "owner": "alephsecurity",
                     "repo": "xnu-qemu-arm64-tools",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 190453050,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2021-09-16T16:44:58Z",
+                "open_issues": 20,
                 "owner": "alephsecurity",
                 "repo": "xnu-qemu-arm64",
-                "stars": 1460
+                "stars": 1460,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -109,12 +198,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.",
+                "homepage": null,
                 "id": 386382473,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-07T14:49:03Z",
+                "open_issues": 16,
                 "owner": "0cyn",
                 "repo": "ktool",
-                "stars": 523
+                "stars": 523,
+                "topics": [
+                  "python",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -125,12 +222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the checkra1n set of tools targeting bare metal, Linux and Windows",
+                "homepage": null,
                 "id": 326426328,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-01-28T09:12:42Z",
+                "open_issues": 0,
                 "owner": "checkra1n",
                 "repo": "toolchain",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -141,12 +243,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MachO's Other Tooling",
+                "homepage": null,
                 "id": 452626054,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-24T03:30:58Z",
+                "open_issues": 1,
                 "owner": "hack-different",
                 "repo": "mootool",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -162,12 +271,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A list of IDA Plugins",
+                    "homepage": null,
                     "id": 42556260,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-05-31T03:28:20Z",
+                    "open_issues": 8,
                     "owner": "onethawt",
                     "repo": "idaplugins-list",
-                    "stars": 3833
+                    "stars": 3833,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -178,12 +292,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 206115779,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-02-19T03:30:46Z",
+                    "open_issues": 13,
                     "owner": "Cisco-Talos",
                     "repo": "GhIDA",
-                    "stars": 816
+                    "stars": 816,
+                    "topics": [
+                      "disassembler",
+                      "ghidra-decompiler",
+                      "ida"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -194,12 +317,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RetDec plugin for IDA",
+                    "homepage": "https://retdec.com/",
                     "id": 114011005,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-02-03T08:39:42Z",
+                    "open_issues": 14,
                     "owner": "avast",
                     "repo": "retdec-idaplugin",
-                    "stars": 799
+                    "stars": 799,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -210,12 +338,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An IDA plugin that eases reversing of binaries that have been code-size-optimized with function outlining",
+                    "homepage": null,
                     "id": 405955981,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-12-31T13:21:07Z",
+                    "open_issues": 0,
                     "owner": "cellebrite-labs",
                     "repo": "FunctionInliner",
-                    "stars": 230
+                    "stars": 230,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -226,12 +359,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IDA loader for Apple's 64 bits iBoot, SecureROM and AVPBooter",
+                    "homepage": null,
                     "id": 407227266,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-02T04:18:38Z",
+                    "open_issues": 0,
                     "owner": "matteyeux",
                     "repo": "ida-iboot-loader",
-                    "stars": 172
+                    "stars": 172,
+                    "topics": [
+                      "checkm8",
+                      "iboot",
+                      "ida-pro",
+                      "idapython",
+                      "m1"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -242,12 +386,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IDA plugin to find code cross references to virtual functions using PAC codes",
+                    "homepage": null,
                     "id": 295439168,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-27T06:11:33Z",
+                    "open_issues": 1,
                     "owner": "cellebrite-labs",
                     "repo": "PacXplorer",
-                    "stars": 159
+                    "stars": 159,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -258,12 +407,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An IDA Toolkit for analyzing iOS kernelcaches.",
+                    "homepage": null,
                     "id": 299901795,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-12T01:51:43Z",
+                    "open_issues": 0,
                     "owner": "cellebrite-labs",
                     "repo": "ida_kernelcache",
-                    "stars": 150
+                    "stars": 150,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -274,12 +428,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "32/64 bit SecureROM/iBoot loader for IDA Pro. Also supports loading and decrypting encrypted .im4ps within IDA.",
+                    "homepage": null,
                     "id": 285683193,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-03-02T08:21:19Z",
+                    "open_issues": 6,
                     "owner": "0cyn",
                     "repo": "iBoot-IDA",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": [
+                      "python",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -290,12 +452,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IDA loader to help with SEPROM reverse engineering.",
+                    "homepage": null,
                     "id": 301857684,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-08-26T12:53:02Z",
+                    "open_issues": 0,
                     "owner": "haiyuidesu",
                     "repo": "sephelper",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -313,12 +480,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "dyld_shared_cache processing / Single-Image loading for BinaryNinja",
+                    "homepage": null,
                     "id": 464102572,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-25T11:44:13Z",
+                    "open_issues": 7,
                     "owner": "0cyn",
                     "repo": "bn-dyldsharedcache",
-                    "stars": 92
+                    "stars": 92,
+                    "topics": [
+                      "0cyn-bn-dyldsharedcache-9fc18337"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -329,12 +503,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Binary Ninja plugin & workflow to help analyze Objective-C code",
+                    "homepage": null,
                     "id": 443645623,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-07-11T15:22:47Z",
+                    "open_issues": 2,
                     "owner": "jonpalmisc",
                     "repo": "ObjectiveNinja",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": [
+                      "binary-ninja",
+                      "cpp",
+                      "ios",
+                      "library",
+                      "macos",
+                      "objective-c",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -345,12 +532,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Binary Ninja loader for 64 bits Apple SEPROMs",
+                    "homepage": null,
                     "id": 305438298,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-07T18:38:01Z",
+                    "open_issues": 1,
                     "owner": "matteyeux",
                     "repo": "seprom-loader",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -361,12 +553,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plugin for loading MachO kernelcache and dSYM files to Binary Ninja",
+                    "homepage": null,
                     "id": 572388187,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-03-23T17:18:17Z",
+                    "open_issues": 0,
                     "owner": "skr0x1c0",
                     "repo": "binja_kc",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -377,12 +574,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "iBoot/SecureROM Loader",
+                    "homepage": null,
                     "id": 285019855,
                     "language": "Python",
+                    "license": "ISC",
                     "last_commit": "2023-02-24T18:14:26Z",
+                    "open_issues": 0,
                     "owner": "EliseZeroTwo",
                     "repo": "iBoot-Binja-Loader",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -400,12 +602,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome Ghidra materials",
+                    "homepage": null,
                     "id": 228118871,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-06-18T04:57:29Z",
+                    "open_issues": 3,
                     "owner": "AllsafeCyberSecurity",
                     "repo": "awesome-ghidra",
-                    "stars": 1428
+                    "stars": 1428,
+                    "topics": [
+                      "awesome-list",
+                      "ghidra"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -416,12 +626,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a Ghidra framework for iOS kernelcache reverse engineering",
+                    "homepage": null,
                     "id": 285321787,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-11-06T07:30:52Z",
+                    "open_issues": 8,
                     "owner": "0x36",
                     "repo": "ghidra_kernelcache",
-                    "stars": 370
+                    "stars": 370,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -439,12 +654,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QEMU Interactive Runtime Analyser",
+                    "homepage": null,
                     "id": 23707362,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2022-07-02T21:00:16Z",
+                    "open_issues": 69,
                     "owner": "geohot",
                     "repo": "qira",
-                    "stars": 4070
+                    "stars": 4070,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -455,12 +675,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "iPhone 11 emulated on QEMU",
+                    "homepage": null,
                     "id": 336719229,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-10-22T16:10:41Z",
+                    "open_issues": 19,
                     "owner": "TrungNguyen1909",
                     "repo": "qemu-t8030",
-                    "stars": 2207
+                    "stars": 2207,
+                    "topics": [
+                      "emulator",
+                      "hypervisor",
+                      "ios",
+                      "qemu"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -484,12 +714,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
+            "homepage": "http://mas.owasp.org/",
             "id": 69648386,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T08:29:53Z",
+            "open_issues": 236,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13141
+            "stars": 13143,
+            "topics": [
+              "android",
+              "android-application",
+              "compliancy-checklist",
+              "dynamic-analysis",
+              "hacking",
+              "ios",
+              "ios-app",
+              "mast",
+              "mastg",
+              "mobile-app",
+              "mobile-security",
+              "mstg",
+              "network-analysis",
+              "pentesting",
+              "reverse-engineering",
+              "reverse-enginnering",
+              "runtime-analysis",
+              "static-analysis",
+              "testing-cryptography"
+            ]
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -500,12 +755,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS Reverse Engineering",
+            "homepage": null,
             "id": 51470028,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2018-06-30T13:23:49Z",
+            "open_issues": 0,
             "owner": "kpwn",
             "repo": "iOSRE",
-            "stars": 1179
+            "stars": 1179,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -516,12 +776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS Reverse Engineering",
+            "homepage": null,
             "id": 51470028,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2018-06-30T13:23:49Z",
+            "open_issues": 0,
             "owner": "kpwn",
             "repo": "iOSRE",
-            "stars": 1179
+            "stars": 1179,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -532,12 +797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "apple cve list",
+            "homepage": null,
             "id": 164427678,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-25T01:15:11Z",
+            "open_issues": 0,
             "owner": "Proteas",
             "repo": "apple-cve",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         }
@@ -559,12 +829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apple BCE (Buffer Copy Engine) and associated subsystems drivers for T2-based Macs",
+                "homepage": null,
                 "id": 210687915,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-06-24T08:13:41Z",
+                "open_issues": 3,
                 "owner": "t2linux",
                 "repo": "apple-bce-drv",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             }
@@ -582,12 +857,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bluetooth experimentation framework for Broadcom and Cypress chips.",
+                "homepage": null,
                 "id": 147357670,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-21T15:45:36Z",
+                "open_issues": 21,
                 "owner": "seemoo-lab",
                 "repo": "internalblue",
-                "stars": 785
+                "stars": 785,
+                "topics": [
+                  "android",
+                  "ble",
+                  "bluetooth",
+                  "bluez",
+                  "broadcom",
+                  "cypress",
+                  "firmware",
+                  "ios",
+                  "linux",
+                  "macos",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -598,12 +890,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Broadcom and Cypress firmware emulation for fuzzing and further full-stack debugging",
+                "homepage": null,
                 "id": 254191670,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-07T21:31:59Z",
+                "open_issues": 8,
                 "owner": "seemoo-lab",
                 "repo": "frankenstein",
-                "stars": 465
+                "stars": 465,
+                "topics": [
+                  "arm",
+                  "bluetooth",
+                  "broadcom",
+                  "cypress",
+                  "heap",
+                  "qemu",
+                  "threadx"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             }
@@ -621,12 +926,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SMC emulator layer",
+                "homepage": null,
                 "id": 146041825,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-09T13:44:20Z",
+                "open_issues": 0,
                 "owner": "acidanthera",
                 "repo": "VirtualSMC",
-                "stars": 1796
+                "stars": 1796,
+                "topics": [
+                  "virtualsmc"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -637,12 +949,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SMC utility for modifying and examining Apple's SMC payloads.",
+                "homepage": "https://github.com/rickmark/smcutil",
                 "id": 106413576,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-02-18T00:48:31Z",
+                "open_issues": 0,
                 "owner": "hack-different",
                 "repo": "smcutil",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "apple",
+                  "arm",
+                  "efi",
+                  "firmware",
+                  "smc",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             }
@@ -661,12 +985,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arbitrary kext and process patching on macOS",
+            "homepage": null,
             "id": 82815770,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-20T15:10:51Z",
+            "open_issues": 0,
             "owner": "acidanthera",
             "repo": "Lilu",
-            "stars": 3853
+            "stars": 3853,
+            "topics": [
+              "lilu"
+            ]
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -677,12 +1008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grant private entitlements to OSX apps",
+            "homepage": null,
             "id": 259126855,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-13T05:15:18Z",
+            "open_issues": 0,
             "owner": "osy",
             "repo": "AMFIExemption",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         }
@@ -706,12 +1042,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu",
+                    "homepage": "https://opensource.apple.com/",
                     "id": 93205465,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-01-13T01:48:01Z",
+                    "open_issues": 3,
                     "owner": "apple",
                     "repo": "darwin-xnu",
-                    "stars": 11267
+                    "stars": 11267,
+                    "topics": [
+                      "kernel"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -729,12 +1072,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Structures, function definitions, and code reversed from old iBoot",
+                    "homepage": null,
                     "id": 154741454,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2018-10-25T21:49:40Z",
+                    "open_issues": 0,
                     "owner": "OpenJailbreak",
                     "repo": "iBootRE",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -752,12 +1100,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 226663242,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-08-05T13:01:16Z",
+                    "open_issues": 3,
                     "owner": "hekapooios",
                     "repo": "hekapooios.github.io",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -782,12 +1135,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FUSE driver for APFS (Apple File System)",
+                    "homepage": null,
                     "id": 106879638,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-08-13T19:36:10Z",
+                    "open_issues": 125,
                     "owner": "sgan81",
                     "repo": "apfs-fuse",
-                    "stars": 2137
+                    "stars": 2137,
+                    "topics": [
+                      "apfs",
+                      "apfs-fuse",
+                      "apple",
+                      "driver",
+                      "encryption",
+                      "filesystem",
+                      "fuse-driver",
+                      "linux",
+                      "mount",
+                      "volume"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -798,12 +1167,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library and tools to access the Apple File System (APFS)",
+                    "homepage": null,
                     "id": 147913927,
                     "language": "C",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-08-04T10:37:26Z",
+                    "open_issues": 8,
                     "owner": "libyal",
                     "repo": "libfsapfs",
-                    "stars": 420
+                    "stars": 420,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -814,12 +1188,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "APFS filesystem format for Kaitai Struct",
+                    "homepage": null,
                     "id": 94515358,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2022-04-20T10:06:21Z",
+                    "open_issues": 3,
                     "owner": "cugu",
                     "repo": "apfs.ksy",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -837,12 +1216,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apple iOS / macOS Assets.car decoder, write in golang",
+                    "homepage": null,
                     "id": 373487053,
                     "language": "Go",
+                    "license": null,
                     "last_commit": "2025-02-26T15:12:25Z",
+                    "open_issues": 0,
                     "owner": "iineva",
                     "repo": "bom",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -860,12 +1244,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FUSE module for .dmg files (containing an HFS+ filesystem)",
+                    "homepage": "http://www.darlinghq.org",
                     "id": 10607356,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-18T18:57:38Z",
+                    "open_issues": 22,
                     "owner": "darlinghq",
                     "repo": "darling-dmg",
-                    "stars": 302
+                    "stars": 302,
+                    "topics": [
+                      "darling",
+                      "dmg",
+                      "dmg-files",
+                      "fuse",
+                      "hfs",
+                      "hfs-filesystem",
+                      "linux"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -876,12 +1273,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tool for analyzing and decrypting apple encrypted disk images",
+                    "homepage": null,
                     "id": 200884185,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-08-22T20:06:51Z",
+                    "open_issues": 2,
                     "owner": "nlitsme",
                     "repo": "encrypteddmg",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "apple",
+                      "decryption",
+                      "dmg",
+                      "encrypted-files",
+                      "filesystem",
+                      "osx"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -906,12 +1315,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A library to handle Apple Property List format in binary or XML",
+                    "homepage": "https://libimobiledevice.org",
                     "id": 8180632,
                     "language": "C",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-05-22T22:53:04Z",
+                    "open_issues": 32,
                     "owner": "libimobiledevice",
                     "repo": "libplist",
-                    "stars": 635
+                    "stars": 635,
+                    "topics": [
+                      "c",
+                      "cpp",
+                      "library",
+                      "plist",
+                      "xml"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -929,12 +1349,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tools for iTunes Libraries",
+                    "homepage": null,
                     "id": 17559168,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2024-03-27T15:42:41Z",
+                    "open_issues": 22,
                     "owner": "josephw",
                     "repo": "titl",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -945,12 +1370,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "iTunes \"itl\" database parsing",
+                    "homepage": null,
                     "id": 133157544,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2020-01-30T15:00:09Z",
+                    "open_issues": 0,
                     "owner": "jeanthom",
                     "repo": "libitlp",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -968,12 +1398,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "iOS9+ iCloud backup retrieval proof of concept",
+                    "homepage": null,
                     "id": 44737383,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2022-11-16T07:53:48Z",
+                    "open_issues": 55,
                     "owner": "horrorho",
                     "repo": "InflatableDonkey",
-                    "stars": 268
+                    "stars": 268,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -984,12 +1419,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 283610359,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T15:30:03Z",
+                    "open_issues": 2,
                     "owner": "hack-different",
                     "repo": "libibackup",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1014,12 +1454,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AirPlay and AirPlay 2 audio player",
+                    "homepage": null,
                     "id": 19316865,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T14:22:07Z",
+                    "open_issues": 19,
                     "owner": "mikebrady",
                     "repo": "shairport-sync",
-                    "stars": 8827
+                    "stars": 8827,
+                    "topics": [
+                      "airplay",
+                      "airplay-2",
+                      "audio",
+                      "audio-player",
+                      "audio-streaming",
+                      "embedded-systems",
+                      "multi-room-audio",
+                      "multi-speaker",
+                      "synchronized-audio"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1039,12 +1494,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Checksums of Mac OSX installer DMGs",
+                "homepage": null,
                 "id": 50649406,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-16T18:12:37Z",
+                "open_issues": 1,
                 "owner": "notpeter",
                 "repo": "apple-installer-checksums",
-                "stars": 843
+                "stars": 843,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             }
@@ -1067,12 +1527,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Link Identity Editor. Put real or fake signatures in a Mach-O.",
+                    "homepage": null,
                     "id": 415716398,
                     "language": "C++",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-07-24T18:47:15Z",
+                    "open_issues": 2,
                     "owner": "ProcursusTeam",
                     "repo": "ldid",
-                    "stars": 274
+                    "stars": 274,
+                    "topics": [
+                      "codesigning",
+                      "ios",
+                      "macos",
+                      "signing"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1083,12 +1553,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial fork from saurik git repository git://git.saurik.com/ldid.git",
+                    "homepage": null,
                     "id": 149056809,
                     "language": "C++",
+                    "license": "AGPL-3.0",
                     "last_commit": "2022-03-12T06:14:31Z",
+                    "open_issues": 4,
                     "owner": "sbingner",
                     "repo": "ldid",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1099,12 +1574,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://opensource.apple.com/releases",
                     "id": 413590274,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-22T03:35:24Z",
+                    "open_issues": 0,
                     "owner": "apple-oss-distributions",
                     "repo": "dtrace",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1122,12 +1602,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "image4 vfs",
+                    "homepage": null,
                     "id": 87366934,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-02-11T19:22:57Z",
+                    "open_issues": 6,
                     "owner": "xerub",
                     "repo": "img4lib",
-                    "stars": 369
+                    "stars": 369,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1138,12 +1623,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tool for manipulating IMG4, IM4M and IM4P files",
+                    "homepage": null,
                     "id": 77568341,
                     "language": "C++",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-08-20T23:45:12Z",
+                    "open_issues": 1,
                     "owner": "tihmstar",
                     "repo": "img4tool",
-                    "stars": 328
+                    "stars": 328,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1154,12 +1644,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python library/CLI tool for parsing Apple's Image4 format.",
+                    "homepage": null,
                     "id": 456675066,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T21:13:12Z",
+                    "open_issues": 16,
                     "owner": "m1stadev",
                     "repo": "PyIMG4",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1170,12 +1665,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Tool for managing Image4 files.",
+                    "homepage": "http://h3adsh0tzz.com",
                     "id": 213217865,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-05-10T12:56:43Z",
+                    "open_issues": 0,
                     "owner": "h3adshotzz",
                     "repo": "img4helper",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1193,12 +1693,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Interact with trustcaches",
+                    "homepage": null,
                     "id": 494501225,
                     "language": "C",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2023-02-12T02:07:27Z",
+                    "open_issues": 0,
                     "owner": "CRKatri",
                     "repo": "trustcache",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1209,12 +1714,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apple Integrity Formats (img4, chunklist, trustcache, etc)",
+                    "homepage": null,
                     "id": 307525230,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2020-10-27T04:41:26Z",
+                    "open_issues": 1,
                     "owner": "hack-different",
                     "repo": "go-aapl-integrity",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1232,12 +1742,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Firmware validation of Apple T1 and prior Macs",
+                    "homepage": null,
                     "id": 108237685,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2022-02-18T00:47:57Z",
+                    "open_issues": 1,
                     "owner": "hack-different",
                     "repo": "efivalidate",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "baseline",
+                      "efi",
+                      "eficheck",
+                      "firmware",
+                      "validation"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1248,12 +1769,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apple Integrity Formats (img4, chunklist, trustcache, etc)",
+                    "homepage": null,
                     "id": 307525230,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2020-10-27T04:41:26Z",
+                    "open_issues": 1,
                     "owner": "hack-different",
                     "repo": "go-aapl-integrity",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1271,12 +1797,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apple Integrity Formats (img4, chunklist, trustcache, etc)",
+                    "homepage": null,
                     "id": 307525230,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2020-10-27T04:41:26Z",
+                    "open_issues": 1,
                     "owner": "hack-different",
                     "repo": "go-aapl-integrity",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1294,12 +1825,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Extract Binaries from Apple's Dyld Shared Cache",
+                    "homepage": null,
                     "id": 255108963,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-01-27T00:32:37Z",
+                    "open_issues": 7,
                     "owner": "arandomdev",
                     "repo": "DyldExtractor",
-                    "stars": 471
+                    "stars": 471,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1310,12 +1846,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A late bound, hope-for-the-best dyld shared cache extractor",
+                    "homepage": null,
                     "id": 421521157,
                     "language": "C",
+                    "license": "Unlicense",
                     "last_commit": "2022-02-13T12:27:48Z",
+                    "open_issues": 1,
                     "owner": "hack-different",
                     "repo": "yolo_dsc",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1333,12 +1874,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Reverse engineering Rosetta 2 on M1 Mac",
+                    "homepage": "https://ffri.github.io/ProjectChampollion/",
                     "id": 342190600,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-08-03T09:12:22Z",
+                    "open_issues": 1,
                     "owner": "FFRI",
                     "repo": "ProjectChampollion",
-                    "stars": 435
+                    "stars": 435,
+                    "topics": [
+                      "ghidra",
+                      "macos",
+                      "macos-m1",
+                      "macosx",
+                      "reverse-engineering",
+                      "rosetta2"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1356,12 +1909,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Swift Programming Language",
+                    "homepage": "https://swift.org",
                     "id": 44838949,
                     "language": "Swift",
-                    "last_commit": "2026-08-28T21:16:13Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T02:36:28Z",
+                    "open_issues": 9252,
                     "owner": "swiftlang",
                     "repo": "swift",
-                    "stars": 70306
+                    "stars": 70308,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1381,12 +1939,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reversing the Apple sandbox",
+                "homepage": null,
                 "id": 113375448,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-24T08:53:20Z",
+                "open_issues": 6,
                 "owner": "malus-security",
                 "repo": "sandblaster",
-                "stars": 268
+                "stars": 268,
+                "topics": [
+                  "apple-sandbox",
+                  "hacktoberfest",
+                  "kernelcache",
+                  "reverse-engineering",
+                  "reverser",
+                  "sandbox-filters",
+                  "sandbox-profiles",
+                  "sbpl",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             }
@@ -1404,12 +1977,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 285529761,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-08-06T09:33:27Z",
+                "open_issues": 0,
                 "owner": "windknown",
                 "repo": "presentations",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -1420,12 +1998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SEP firmware splitter, made in rust.",
+                "homepage": null,
                 "id": 409220955,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-10T21:10:20Z",
+                "open_issues": 0,
                 "owner": "justtryingthingsout",
                 "repo": "sepsplit-rs",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -1436,12 +2019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 226663242,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-05T13:01:16Z",
+                "open_issues": 3,
                 "owner": "hekapooios",
                 "repo": "hekapooios.github.io",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -1452,12 +2040,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "SEP Finder Bot",
+                "homepage": null,
                 "id": 413445093,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-15T18:43:42Z",
+                "open_issues": 0,
                 "owner": "lunaynx",
                 "repo": "sepfinderbot",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -1473,12 +2066,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apple SEP reverse",
+                    "homepage": null,
                     "id": 144231415,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-03-31T09:18:44Z",
+                    "open_issues": 0,
                     "owner": "mwpcheung",
                     "repo": "AppleSEPFirmware",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1503,12 +2101,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Useful resources for iOS hacking",
+                    "homepage": null,
                     "id": 77387478,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-05-24T22:38:16Z",
+                    "open_issues": 4,
                     "owner": "Siguza",
                     "repo": "ios-resources",
-                    "stars": 1967
+                    "stars": 1967,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1526,12 +2129,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Asahi Linux documentation",
+                    "homepage": "http://asahilinux.org/docs/",
                     "id": 324815421,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-02T16:01:08Z",
+                    "open_issues": 20,
                     "owner": "AsahiLinux",
                     "repo": "docs",
-                    "stars": 2268
+                    "stars": 2268,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1549,12 +2157,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Swift’s stable releases of Clang as well as support the Swift project.",
+                    "homepage": "https://llvm.org",
                     "id": 215875945,
                     "language": "LLVM",
-                    "last_commit": "2026-08-28T21:10:12Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T03:29:56Z",
+                    "open_issues": 623,
                     "owner": "swiftlang",
                     "repo": "llvm-project",
-                    "stars": 1241
+                    "stars": 1241,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1583,12 +2196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RE tooling kit for Apple modem baseband",
+                "homepage": null,
                 "id": 484897159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-17T00:41:56Z",
+                "open_issues": 0,
                 "owner": "hack-different",
                 "repo": "apple-baseband",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -1604,12 +2222,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IDA processor module for the hexagon (QDSP6) processor",
+                    "homepage": null,
                     "id": 10597411,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-04-07T13:58:58Z",
+                    "open_issues": 1,
                     "owner": "gsmk",
                     "repo": "hexagon",
-                    "stars": 241
+                    "stars": 241,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1620,12 +2243,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hexagon processor module for IDA Pro disassembler",
+                    "homepage": null,
                     "id": 275816731,
                     "language": "C++",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-05-19T14:10:21Z",
+                    "open_issues": 0,
                     "owner": "n-o-o-n",
                     "repo": "idp_hexagon",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1636,12 +2264,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hexag00n: A collection of reverse engineering tools for the Qualcomm Digital Signal Proccesor (QDSP6)",
+                    "homepage": null,
                     "id": 62027193,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2017-01-23T18:44:02Z",
+                    "open_issues": 3,
                     "owner": "programa-stic",
                     "repo": "hexag00n",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1652,12 +2285,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 327445814,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-02-29T05:56:48Z",
+                    "open_issues": 6,
                     "owner": "google",
                     "repo": "binja-hexagon",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1668,12 +2306,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QEMU with support for QDSP6 user mode emulation",
+                    "homepage": null,
                     "id": 212835268,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-10-04T14:37:31Z",
+                    "open_issues": 1,
                     "owner": "Comsecuris",
                     "repo": "qemu-hexagon",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1690,12 +2333,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Everything we actually know about the Apple Neural Engine (ANE)",
+                "homepage": null,
                 "id": 255979772,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-03-12T11:59:20Z",
+                "open_issues": 10,
                 "owner": "hollance",
                 "repo": "neural-engine",
-                "stars": 2523
+                "stars": 2523,
+                "topics": [
+                  "ane",
+                  "coreml",
+                  "ios",
+                  "iphone",
+                  "neural-engine",
+                  "neural-network",
+                  "tpu"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -1711,12 +2367,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dumps files from 'rkos' ftab firmware images found in Apple micro-devices.",
+                    "homepage": null,
                     "id": 234986474,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2026-06-03T12:49:28Z",
+                    "open_issues": 0,
                     "owner": "19h",
                     "repo": "ftab-dump",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1736,12 +2397,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rvictl for Linux and Windows: capture packets sent/received by iOS devices",
+                "homepage": null,
                 "id": 103056218,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-26T00:49:04Z",
+                "open_issues": 2,
                 "owner": "gh2o",
                 "repo": "rvi_capture",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "ios",
+                  "iphone",
+                  "packet-capture",
+                  "packet-sniffer",
+                  "python3",
+                  "rvictl",
+                  "wireshark"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -1752,12 +2426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Patch Thunderbolt firmware through TI PD interface",
+                "homepage": null,
                 "id": 217680130,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-11T01:12:16Z",
+                "open_issues": 2,
                 "owner": "osy",
                 "repo": "ThunderboltPatcher",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -1773,12 +2452,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A cross-platform protocol library to communicate with iOS devices",
+                    "homepage": "https://libimobiledevice.org",
                     "id": 8180677,
                     "language": "C",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-06-10T07:52:18Z",
+                    "open_issues": 848,
                     "owner": "libimobiledevice",
                     "repo": "libimobiledevice",
-                    "stars": 8136
+                    "stars": 8136,
+                    "topics": [
+                      "c",
+                      "ios",
+                      "library",
+                      "lockdownd",
+                      "protocol"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1789,12 +2479,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pure python3 implementation for working with iDevices (iPhone, etc...).",
+                    "homepage": "https://doronz88.github.io/pymobiledevice3/",
                     "id": 357904774,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T15:57:46Z",
+                    "open_issues": 39,
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
-                    "stars": 2676
+                    "stars": 2678,
+                    "topics": [
+                      "afc",
+                      "instruments",
+                      "ios",
+                      "libimobiledevice",
+                      "lockdown-services",
+                      "lockdownd",
+                      "protocol",
+                      "python",
+                      "python3",
+                      "usbmux"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1805,12 +2511,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python bindings for libimobiledevice",
+                    "homepage": null,
                     "id": 276242461,
                     "language": "Python",
+                    "license": "LGPL-2.1",
                     "last_commit": "2022-02-16T13:25:29Z",
+                    "open_issues": 0,
                     "owner": "hack-different",
                     "repo": "python-libimobiledevice",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "bindings",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1828,12 +2542,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux",
+                    "homepage": "https://libimobiledevice.org",
                     "id": 8180767,
                     "language": "C",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-23T01:27:21Z",
+                    "open_issues": 47,
                     "owner": "libimobiledevice",
                     "repo": "libirecovery",
-                    "stars": 651
+                    "stars": 651,
+                    "topics": [
+                      "dfu",
+                      "iboot",
+                      "ibss",
+                      "ios",
+                      "irecovery",
+                      "library"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1851,12 +2577,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A socket daemon to multiplex connections from and to iOS devices",
+                    "homepage": "https://libimobiledevice.org",
                     "id": 8180474,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-12-06T01:14:51Z",
+                    "open_issues": 117,
                     "owner": "libimobiledevice",
                     "repo": "usbmuxd",
-                    "stars": 1754
+                    "stars": 1754,
+                    "topics": [
+                      "c",
+                      "daemon",
+                      "ios",
+                      "libimobiledevice",
+                      "library",
+                      "usb",
+                      "usbmuxd"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -1867,12 +2606,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A program and toolset to analyze iDevice USB sessions",
+                    "homepage": null,
                     "id": 312990698,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T16:03:44Z",
+                    "open_issues": 0,
                     "owner": "hack-different",
                     "repo": "demuxusb",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "apple",
+                      "forensics",
+                      "libimobiledevice",
+                      "re",
+                      "reverse-engineering",
+                      "usb",
+                      "usbmuxd"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1890,12 +2642,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Restore/upgrade firmware of iOS devices",
+                    "homepage": "https://libimobiledevice.org",
                     "id": 13831185,
                     "language": "C",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-08-23T02:01:06Z",
+                    "open_issues": 332,
                     "owner": "libimobiledevice",
                     "repo": "idevicerestore",
-                    "stars": 1918
+                    "stars": 1918,
+                    "topics": [
+                      "c",
+                      "firmware",
+                      "idevicerestore",
+                      "ios",
+                      "ipsw",
+                      "restore",
+                      "shsh",
+                      "signing"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1913,12 +2679,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Linux Kernel Mode Driver for Apple USB Target Disk Mode",
+                    "homepage": null,
                     "id": 242341324,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2020-02-27T00:11:21Z",
+                    "open_issues": 0,
                     "owner": "rickmark",
                     "repo": "apple_utdm",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1936,12 +2707,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apple Silicon to Apple Silicon VDM utility",
+                    "homepage": null,
                     "id": 393492047,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-05T05:54:24Z",
+                    "open_issues": 0,
                     "owner": "rickmark",
                     "repo": "macvdmtool",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1966,12 +2742,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open source implementation of Apple's Wi-Fi Password Sharing protocol in Python.",
+                    "homepage": null,
                     "id": 267558885,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-17T12:30:12Z",
+                    "open_issues": 3,
                     "owner": "seemoo-lab",
                     "repo": "openwifipass",
-                    "stars": 837
+                    "stars": 837,
+                    "topics": [
+                      "apple",
+                      "opack",
+                      "password-sharing",
+                      "reverse-engineering",
+                      "wifi"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -1989,12 +2776,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 228259479,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2020-10-25T03:44:30Z",
+                    "open_issues": 0,
                     "owner": "rickmark",
                     "repo": "apple_net_recovery",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -2019,12 +2811,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python library for handling Apple Wireless Diagnostics file formats",
+                    "homepage": null,
                     "id": 412788521,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-30T07:45:01Z",
+                    "open_issues": 0,
                     "owner": "hack-different",
                     "repo": "apple-diagnostics-format",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "apple",
+                      "awdd",
+                      "decoding",
+                      "diagnostics",
+                      "encoding",
+                      "metadata"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -2042,12 +2846,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Research about malware that infects the EFI and SMC of Apple MacBooks.",
+                    "homepage": null,
                     "id": 100866857,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2026-07-22T12:06:15Z",
+                    "open_issues": 0,
                     "owner": "rickmark",
                     "repo": "mojo_thor",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": [
+                      "apple",
+                      "efi",
+                      "malware",
+                      "rootkit"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -2065,12 +2879,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of data formats",
+                    "homepage": null,
                     "id": 89122881,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-04T06:54:07Z",
+                    "open_issues": 10,
                     "owner": "libyal",
                     "repo": "dtformats",
-                    "stars": 199
+                    "stars": 199,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 },
@@ -2081,12 +2900,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A parser for Unified logging tracev3 files",
+                    "homepage": null,
                     "id": 164519456,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-07-25T11:53:18Z",
+                    "open_issues": 2,
                     "owner": "ydkhatri",
                     "repo": "UnifiedLogReader",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": [
+                      "forensics",
+                      "macos",
+                      "tracev3",
+                      "unifiedlogs"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -2104,12 +2933,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A program and toolset to analyze iDevice USB sessions",
+                    "homepage": null,
                     "id": 312990698,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T16:03:44Z",
+                    "open_issues": 0,
                     "owner": "hack-different",
                     "repo": "demuxusb",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "apple",
+                      "forensics",
+                      "libimobiledevice",
+                      "re",
+                      "reverse-engineering",
+                      "usb",
+                      "usbmuxd"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
                 }
@@ -2133,12 +2975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "open-source jailbreaking tool for many iOS devices",
+            "homepage": null,
             "id": 87743379,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-21T04:10:19Z",
+            "open_issues": 168,
             "owner": "axi0mX",
             "repo": "ipwndfu",
-            "stars": 7397
+            "stars": 7397,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2149,12 +2996,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak",
+            "homepage": null,
             "id": 420812152,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-06-12T08:48:08Z",
+            "open_issues": 147,
             "owner": "LinusHenze",
             "repo": "Fugu14",
-            "stars": 1410
+            "stars": 1410,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2165,12 +3017,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fugu is the first open source jailbreak based on the checkm8 exploit",
+            "homepage": null,
             "id": 237836496,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-11T00:47:15Z",
+            "open_issues": 24,
             "owner": "LinusHenze",
             "repo": "Fugu",
-            "stars": 671
+            "stars": 671,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2181,12 +3038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hahh",
+            "homepage": null,
             "id": 169099776,
             "language": "C",
+            "license": null,
             "last_commit": "2019-07-26T15:28:59Z",
+            "open_issues": 32,
             "owner": "jakeajames",
             "repo": "rootlessJB3",
-            "stars": 363
+            "stars": 363,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2197,12 +3059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checkm8 experiment to understand AP/SEP internals.",
+            "homepage": null,
             "id": 497674301,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-02T12:01:26Z",
+            "open_issues": 8,
             "owner": "0x7ff",
             "repo": "gaster",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2213,12 +3080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iDevice Exploit Injector",
+            "homepage": "http://www.greenpois0n.com",
             "id": 1025425,
             "language": "C",
+            "license": null,
             "last_commit": "2021-08-21T01:23:34Z",
+            "open_issues": 4,
             "owner": "Chronic-Dev",
             "repo": "syringe",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2229,12 +3101,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " lightweight ipwnder",
+            "homepage": null,
             "id": 455320394,
             "language": "C",
+            "license": null,
             "last_commit": "2022-06-13T14:39:40Z",
+            "open_issues": 5,
             "owner": "dora2ios",
             "repo": "ipwnder_lite",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2245,12 +3122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GreenPois0n Jailbreak. Most recent version maintained. Help split this up into reusable modules for future bootloader jailbreaks. This is archived for future generations",
+            "homepage": null,
             "id": 77577200,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2017-08-20T02:51:31Z",
+            "open_issues": 0,
             "owner": "OpenJailbreak",
             "repo": "greenpois0n",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2263,12 +3145,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern *OS Bootstrap",
+                "homepage": "https://apt.procurs.us",
                 "id": 216352069,
                 "language": "Makefile",
+                "license": "0BSD",
                 "last_commit": "2026-08-01T10:15:19Z",
+                "open_issues": 150,
                 "owner": "ProcursusTeam",
                 "repo": "Procursus",
-                "stars": 1001
+                "stars": 1001,
+                "topics": [
+                  "cross-compilation",
+                  "hacktoberfest",
+                  "ios",
+                  "jailbreak",
+                  "macos",
+                  "procursus"
+                ]
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -2279,12 +3173,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "yet another tweak injector / tweak hooking library for darwin systems",
+                "homepage": null,
                 "id": 559919558,
                 "language": "Swift",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-31T15:31:07Z",
+                "open_issues": 11,
                 "owner": "tealbathingsuit",
                 "repo": "ellekit",
-                "stars": 698
+                "stars": 698,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -2295,12 +3194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free runtime modification library.",
+                "homepage": null,
                 "id": 30063029,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2019-09-01T02:41:25Z",
+                "open_issues": 10,
                 "owner": "comex",
                 "repo": "substitute",
-                "stars": 587
+                "stars": 587,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -2311,12 +3215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iDevice Exploit Injector",
+                "homepage": "http://www.greenpois0n.com",
                 "id": 1025425,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-08-21T01:23:34Z",
+                "open_issues": 4,
                 "owner": "Chronic-Dev",
                 "repo": "syringe",
-                "stars": 188
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             },
@@ -2327,12 +3236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free runtime modification library.",
+                "homepage": null,
                 "id": 240238174,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-26T17:57:47Z",
+                "open_issues": 0,
                 "owner": "sbingner",
                 "repo": "substitute",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             }
@@ -2354,12 +3268,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pongoOS",
+            "homepage": "https://checkra.in",
             "id": 238539562,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-03T07:14:34Z",
+            "open_issues": 48,
             "owner": "checkra1n",
             "repo": "PongoOS",
-            "stars": 2747
+            "stars": 2747,
+            "topics": [
+              "bootloader",
+              "checkra1n",
+              "ios"
+            ]
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2375,24 +3298,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Port Linux to the iPhone",
+                "homepage": "http://www.iphonelinux.org/",
                 "id": 19309,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-07-09T22:40:20Z",
+                "open_issues": 14,
                 "owner": "planetbeing",
                 "repo": "iphonelinux",
-                "stars": 618
+                "stars": 618,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Supporting tools for Android/Linux on the iPhone",
+            "homepage": null,
             "id": 244935651,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2023-03-25T17:51:00Z",
+            "open_issues": 10,
             "owner": "corellium",
             "repo": "projectsandcastle",
-            "stars": 2101
+            "stars": 2101,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2403,12 +3336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux kernel source tree",
+            "homepage": null,
             "id": 330870991,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-24T03:20:26Z",
+            "open_issues": 0,
             "owner": "corellium",
             "repo": "linux-m1",
-            "stars": 871
+            "stars": 871,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         }
@@ -2425,12 +3363,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+            "homepage": "https://mvt.re",
             "id": 386524895,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T03:02:23Z",
+            "open_issues": 46,
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 12980
+            "stars": 12981,
+            "topics": [
+              "android",
+              "forensics",
+              "forensics-tools",
+              "ios",
+              "mobile",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         },
@@ -2441,12 +3391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolset to examine iDevices for Security / Safety Threats",
+            "homepage": null,
             "id": 285412140,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-31T08:09:40Z",
+            "open_issues": 2,
             "owner": "rickmark",
             "repo": "isafety",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
         }
@@ -2455,15 +3410,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:17:26.012Z",
+    "last_updated": "2026-08-29T04:30:17.123Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware",
+      "homepage": null,
       "id": 435649432,
       "language": "Ruby",
+      "license": "MIT",
       "last_commit": "2026-08-16T23:57:35Z",
+      "open_issues": 3,
       "owner": "hack-different",
       "repo": "apple-knowledge",
-      "stars": 1380
+      "stars": 1380,
+      "topics": [
+        "apple",
+        "apple-silicon",
+        "awesome",
+        "exploit",
+        "ios",
+        "jailbreak",
+        "jekyll",
+        "macos",
+        "macosx",
+        "reverse-engineering",
+        "ruby"
+      ]
     },
     "original_repository_sha": "cabf98e2053f9e1efa67fc382d70870c1993cb50",
     "enhanced_repository": "enhansome/enhansome-apple-knowledge",
