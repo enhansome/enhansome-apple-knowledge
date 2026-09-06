@@ -21,7 +21,7 @@
                 "open_issues": 215,
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9302,
+                "stars": 9306,
                 "topics": [
                   "arm",
                   "arm64",
@@ -58,7 +58,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-09-04T13:11:41Z",
-                "open_issues": 357,
+                "open_issues": 359,
                 "owner": "capstone-engine",
                 "repo": "capstone",
                 "stars": 8998,
@@ -99,11 +99,11 @@
                 "id": 146060123,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-03T22:42:22Z",
+                "last_commit": "2026-09-05T17:54:24Z",
                 "open_issues": 7,
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3687,
+                "stars": 3686,
                 "topics": [
                   "apple",
                   "class-dump",
@@ -684,7 +684,7 @@
                     "open_issues": 19,
                     "owner": "TrungNguyen1909",
                     "repo": "qemu-t8030",
-                    "stars": 2209,
+                    "stars": 2210,
                     "topics": [
                       "emulator",
                       "hypervisor",
@@ -720,7 +720,7 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-04T09:36:20Z",
-            "open_issues": 235,
+            "open_issues": 238,
             "owner": "OWASP",
             "repo": "mastg",
             "stars": 13155,
@@ -994,7 +994,7 @@
             "open_issues": 0,
             "owner": "acidanthera",
             "repo": "Lilu",
-            "stars": 3853,
+            "stars": 3854,
             "topics": [
               "lilu"
             ]
@@ -1051,7 +1051,7 @@
                     "open_issues": 3,
                     "owner": "apple",
                     "repo": "darwin-xnu",
-                    "stars": 11264,
+                    "stars": 11265,
                     "topics": [
                       "kernel"
                     ]
@@ -1459,11 +1459,11 @@
                     "id": 19316865,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-04T14:24:47Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-09-06T10:03:31Z",
+                    "open_issues": 27,
                     "owner": "mikebrady",
                     "repo": "shairport-sync",
-                    "stars": 8841,
+                    "stars": 8844,
                     "topics": [
                       "airplay",
                       "airplay-2",
@@ -1632,7 +1632,7 @@
                     "open_issues": 1,
                     "owner": "tihmstar",
                     "repo": "img4tool",
-                    "stars": 328,
+                    "stars": 329,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -1914,11 +1914,11 @@
                     "id": 44838949,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-05T11:50:42Z",
-                    "open_issues": 9247,
+                    "last_commit": "2026-09-06T13:25:29Z",
+                    "open_issues": 9251,
                     "owner": "swiftlang",
                     "repo": "swift",
-                    "stars": 70321,
+                    "stars": 70326,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2110,7 +2110,7 @@
                     "open_issues": 4,
                     "owner": "Siguza",
                     "repo": "ios-resources",
-                    "stars": 1970,
+                    "stars": 1971,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2138,7 +2138,7 @@
                     "open_issues": 19,
                     "owner": "AsahiLinux",
                     "repo": "docs",
-                    "stars": 2279,
+                    "stars": 2280,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2162,11 +2162,11 @@
                     "id": 215875945,
                     "language": "LLVM",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-05T13:32:05Z",
-                    "open_issues": 634,
+                    "last_commit": "2026-09-06T13:45:10Z",
+                    "open_issues": 635,
                     "owner": "swiftlang",
                     "repo": "llvm-project",
-                    "stars": 1241,
+                    "stars": 1242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2273,7 +2273,7 @@
                     "open_issues": 3,
                     "owner": "programa-stic",
                     "repo": "hexag00n",
-                    "stars": 119,
+                    "stars": 120,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2342,7 +2342,7 @@
                 "open_issues": 10,
                 "owner": "hollance",
                 "repo": "neural-engine",
-                "stars": 2527,
+                "stars": 2528,
                 "topics": [
                   "ane",
                   "coreml",
@@ -2484,8 +2484,8 @@
                     "id": 357904774,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-05T13:24:40Z",
-                    "open_issues": 42,
+                    "last_commit": "2026-09-06T13:14:01Z",
+                    "open_issues": 37,
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
                     "stars": 2710,
@@ -2651,7 +2651,7 @@
                     "open_issues": 334,
                     "owner": "libimobiledevice",
                     "repo": "idevicerestore",
-                    "stars": 1926,
+                    "stars": 1927,
                     "topics": [
                       "c",
                       "firmware",
@@ -3068,7 +3068,7 @@
             "open_issues": 8,
             "owner": "0x7ff",
             "repo": "gaster",
-            "stars": 220,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3182,7 +3182,7 @@
                 "open_issues": 12,
                 "owner": "tealbathingsuit",
                 "repo": "ellekit",
-                "stars": 697,
+                "stars": 698,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3277,7 +3277,7 @@
             "open_issues": 48,
             "owner": "checkra1n",
             "repo": "PongoOS",
-            "stars": 2750,
+            "stars": 2749,
             "topics": [
               "bootloader",
               "checkra1n",
@@ -3368,11 +3368,11 @@
             "id": 386524895,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:34:48Z",
+            "last_commit": "2026-09-06T00:40:24Z",
             "open_issues": 45,
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 13022,
+            "stars": 13031,
             "topics": [
               "android",
               "forensics",
@@ -3410,7 +3410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:36:46.834Z",
+    "last_updated": "2026-09-06T13:50:58.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware",
