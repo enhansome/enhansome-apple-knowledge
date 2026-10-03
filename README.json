@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Unicorn Engine",
-              "description": null,
+              "description": "unicorn-engine/unicorn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-28T09:09:56Z",
-                "open_issues": 224,
+                "open_issues": 228,
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9389,
+                "stars": 9396,
                 "topics": [
                   "arm",
                   "arm64",
@@ -48,7 +48,7 @@
             {
               "node_type": "item",
               "title": "Capstone Engine",
-              "description": null,
+              "description": "capstone-engine/capstone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -58,7 +58,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-09-30T15:37:31Z",
-                "open_issues": 358,
+                "open_issues": 360,
                 "owner": "capstone-engine",
                 "repo": "capstone",
                 "stars": 9046,
@@ -90,7 +90,7 @@
             {
               "node_type": "item",
               "title": "ipsw",
-              "description": null,
+              "description": "blacktop/ipsw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -130,12 +130,12 @@
             {
               "node_type": "item",
               "title": "xnu-qemu-arm64",
-              "description": null,
+              "description": "alephsecurity/xnu-qemu-arm64",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Build iOS on QEMU",
-                  "description": null,
+                  "description": "alephsecurity/xnu-qemu-arm64",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -156,7 +156,7 @@
                 {
                   "node_type": "item",
                   "title": "xnu-qemu-arm64-tools",
-                  "description": null,
+                  "description": "alephsecurity/xnu-qemu-arm64-tools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -218,7 +218,7 @@
             {
               "node_type": "item",
               "title": "toolchain",
-              "description": null,
+              "description": "checkra1n/toolchain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -267,7 +267,7 @@
                 {
                   "node_type": "item",
                   "title": "idaplugins-list",
-                  "description": null,
+                  "description": "onethawt/idaplugins-list",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -280,7 +280,7 @@
                     "open_issues": 8,
                     "owner": "onethawt",
                     "repo": "idaplugins-list",
-                    "stars": 3836,
+                    "stars": 3837,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -288,7 +288,7 @@
                 {
                   "node_type": "item",
                   "title": "GhIDA",
-                  "description": null,
+                  "description": "Cisco-Talos/GhIDA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -313,7 +313,7 @@
                 {
                   "node_type": "item",
                   "title": "retdec-idaplugin",
-                  "description": null,
+                  "description": "avast/retdec-idaplugin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -334,7 +334,7 @@
                 {
                   "node_type": "item",
                   "title": "FunctionInliner",
-                  "description": null,
+                  "description": "cellebrite-labs/FunctionInliner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -355,7 +355,7 @@
                 {
                   "node_type": "item",
                   "title": "ida-iboot-loader",
-                  "description": null,
+                  "description": "matteyeux/ida-iboot-loader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -382,7 +382,7 @@
                 {
                   "node_type": "item",
                   "title": "PacXplorer",
-                  "description": null,
+                  "description": "cellebrite-labs/PacXplorer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -403,7 +403,7 @@
                 {
                   "node_type": "item",
                   "title": "ida_kernelcache",
-                  "description": null,
+                  "description": "cellebrite-labs/ida_kernelcache",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -424,7 +424,7 @@
                 {
                   "node_type": "item",
                   "title": "iBoot-IDA",
-                  "description": null,
+                  "description": "0cyn/iBoot-IDA",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -448,7 +448,7 @@
                 {
                   "node_type": "item",
                   "title": "sephelper",
-                  "description": null,
+                  "description": "haiyuidesu/sephelper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -476,7 +476,7 @@
                 {
                   "node_type": "item",
                   "title": "bn-dyldsharedcache",
-                  "description": null,
+                  "description": "0cyn/bn-dyldsharedcache",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -499,7 +499,7 @@
                 {
                   "node_type": "item",
                   "title": "ObjectiveNinja",
-                  "description": null,
+                  "description": "jonpalmisc/ObjectiveNinja",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -528,7 +528,7 @@
                 {
                   "node_type": "item",
                   "title": "seprom-loader",
-                  "description": null,
+                  "description": "matteyeux/seprom-loader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -549,7 +549,7 @@
                 {
                   "node_type": "item",
                   "title": "binja_kc",
-                  "description": null,
+                  "description": "skr0x1c0/binja_kc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -570,7 +570,7 @@
                 {
                   "node_type": "item",
                   "title": "iBoot-Binja-Loader",
-                  "description": null,
+                  "description": "EliseZeroTwo/iBoot-Binja-Loader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -598,7 +598,7 @@
                 {
                   "node_type": "item",
                   "title": "awesome-ghidra",
-                  "description": null,
+                  "description": "AllsafeCyberSecurity/awesome-ghidra",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -622,7 +622,7 @@
                 {
                   "node_type": "item",
                   "title": "ghidra_kernelcache",
-                  "description": null,
+                  "description": "0x36/ghidra_kernelcache",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -650,7 +650,7 @@
                 {
                   "node_type": "item",
                   "title": "qira",
-                  "description": null,
+                  "description": "geohot/qira",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -671,7 +671,7 @@
                 {
                   "node_type": "item",
                   "title": "QEMU Apple Branch",
-                  "description": null,
+                  "description": "TrungNguyen1909/qemu-t8030",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -710,7 +710,7 @@
         {
           "node_type": "item",
           "title": "OWASP: iOS Tampering and Reverse Engineering",
-          "description": null,
+          "description": "OWASP/mastg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -720,7 +720,7 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-01T18:27:28Z",
-            "open_issues": 239,
+            "open_issues": 241,
             "owner": "OWASP",
             "repo": "mastg",
             "stars": 13216,
@@ -751,7 +751,7 @@
         {
           "node_type": "item",
           "title": "kpwn / qwertyoruiop's Wiki",
-          "description": null,
+          "description": "kpwn/iOSRE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -772,7 +772,7 @@
         {
           "node_type": "item",
           "title": "kpwn / qwertyoruiop's Papers",
-          "description": null,
+          "description": "kpwn/iOSRE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -793,7 +793,7 @@
         {
           "node_type": "item",
           "title": "apple-cve",
-          "description": null,
+          "description": "Proteas/apple-cve",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -825,7 +825,7 @@
             {
               "node_type": "item",
               "title": "apple-bce-drv",
-              "description": null,
+              "description": "t2linux/apple-bce-drv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -853,7 +853,7 @@
             {
               "node_type": "item",
               "title": "internalblue",
-              "description": null,
+              "description": "seemoo-lab/internalblue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -886,7 +886,7 @@
             {
               "node_type": "item",
               "title": "frankenstein",
-              "description": null,
+              "description": "seemoo-lab/frankenstein",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -922,7 +922,7 @@
             {
               "node_type": "item",
               "title": "VirtualSMC",
-              "description": null,
+              "description": "acidanthera/VirtualSMC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -981,7 +981,7 @@
         {
           "node_type": "item",
           "title": "Lilu",
-          "description": null,
+          "description": "acidanthera/Lilu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1004,7 +1004,7 @@
         {
           "node_type": "item",
           "title": "AMFIExemption",
-          "description": null,
+          "description": "osy/AMFIExemption",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1038,7 +1038,7 @@
                 {
                   "node_type": "item",
                   "title": "darwin-xnu",
-                  "description": null,
+                  "description": "apple/darwin-xnu",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1068,7 +1068,7 @@
                 {
                   "node_type": "item",
                   "title": "iBootRE",
-                  "description": null,
+                  "description": "OpenJailbreak/iBootRE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1096,7 +1096,7 @@
                 {
                   "node_type": "item",
                   "title": "SecureROM Binaries",
-                  "description": null,
+                  "description": "hekapooios/hekapooios.github.io",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1131,7 +1131,7 @@
                 {
                   "node_type": "item",
                   "title": "apfs-fuse",
-                  "description": null,
+                  "description": "sgan81/apfs-fuse",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1144,7 +1144,7 @@
                     "open_issues": 126,
                     "owner": "sgan81",
                     "repo": "apfs-fuse",
-                    "stars": 2153,
+                    "stars": 2152,
                     "topics": [
                       "apfs",
                       "apfs-fuse",
@@ -1163,7 +1163,7 @@
                 {
                   "node_type": "item",
                   "title": "libfsapfs",
-                  "description": null,
+                  "description": "libyal/libfsapfs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1184,7 +1184,7 @@
                 {
                   "node_type": "item",
                   "title": "apfs.ksy",
-                  "description": null,
+                  "description": "cugu/apfs.ksy",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1212,7 +1212,7 @@
                 {
                   "node_type": "item",
                   "title": "bom",
-                  "description": null,
+                  "description": "iineva/bom",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1240,7 +1240,7 @@
                 {
                   "node_type": "item",
                   "title": "darling-dmg",
-                  "description": null,
+                  "description": "darlinghq/darling-dmg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1253,7 +1253,7 @@
                     "open_issues": 23,
                     "owner": "darlinghq",
                     "repo": "darling-dmg",
-                    "stars": 305,
+                    "stars": 304,
                     "topics": [
                       "darling",
                       "dmg",
@@ -1269,7 +1269,7 @@
                 {
                   "node_type": "item",
                   "title": "encrypteddmg",
-                  "description": null,
+                  "description": "nlitsme/encrypteddmg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1311,7 +1311,7 @@
                 {
                   "node_type": "item",
                   "title": "libplist",
-                  "description": null,
+                  "description": "libimobiledevice/libplist",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1345,7 +1345,7 @@
                 {
                   "node_type": "item",
                   "title": "titl",
-                  "description": null,
+                  "description": "josephw/titl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1366,7 +1366,7 @@
                 {
                   "node_type": "item",
                   "title": "libitlp",
-                  "description": null,
+                  "description": "jeanthom/libitlp",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1394,7 +1394,7 @@
                 {
                   "node_type": "item",
                   "title": "InflatableDonkey",
-                  "description": null,
+                  "description": "horrorho/InflatableDonkey",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1415,7 +1415,7 @@
                 {
                   "node_type": "item",
                   "title": "libibackup",
-                  "description": null,
+                  "description": "hack-different/libibackup",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1450,7 +1450,7 @@
                 {
                   "node_type": "item",
                   "title": "shairport-sync",
-                  "description": null,
+                  "description": "mikebrady/shairport-sync",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1463,7 +1463,7 @@
                     "open_issues": 14,
                     "owner": "mikebrady",
                     "repo": "shairport-sync",
-                    "stars": 8878,
+                    "stars": 8879,
                     "topics": [
                       "airplay",
                       "airplay-2",
@@ -1490,7 +1490,7 @@
             {
               "node_type": "item",
               "title": "apple-installer-checksums",
-              "description": null,
+              "description": "notpeter/apple-installer-checksums",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1570,7 +1570,7 @@
                 {
                   "node_type": "item",
                   "title": "Apple CTF / Compact Type Format",
-                  "description": null,
+                  "description": "apple-oss-distributions/dtrace",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1598,7 +1598,7 @@
                 {
                   "node_type": "item",
                   "title": "img4lib",
-                  "description": null,
+                  "description": "xerub/img4lib",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1619,7 +1619,7 @@
                 {
                   "node_type": "item",
                   "title": "img4tool",
-                  "description": null,
+                  "description": "tihmstar/img4tool",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1661,7 +1661,7 @@
                 {
                   "node_type": "item",
                   "title": "img4helper",
-                  "description": null,
+                  "description": "h3adshotzz/img4helper",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1689,7 +1689,7 @@
                 {
                   "node_type": "item",
                   "title": "trustcache",
-                  "description": null,
+                  "description": "CRKatri/trustcache",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1710,7 +1710,7 @@
                 {
                   "node_type": "item",
                   "title": "go-aapl-integrity",
-                  "description": null,
+                  "description": "hack-different/go-aapl-integrity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1738,7 +1738,7 @@
                 {
                   "node_type": "item",
                   "title": "efivalidate",
-                  "description": null,
+                  "description": "hack-different/efivalidate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1765,7 +1765,7 @@
                 {
                   "node_type": "item",
                   "title": "go-aapl-integrity",
-                  "description": null,
+                  "description": "hack-different/go-aapl-integrity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1793,7 +1793,7 @@
                 {
                   "node_type": "item",
                   "title": "go-aapl-integrity",
-                  "description": null,
+                  "description": "hack-different/go-aapl-integrity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1870,7 +1870,7 @@
                 {
                   "node_type": "item",
                   "title": "ProjectChampollion",
-                  "description": null,
+                  "description": "FFRI/ProjectChampollion",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1905,7 +1905,7 @@
                 {
                   "node_type": "item",
                   "title": "Swift Mangling",
-                  "description": null,
+                  "description": "swiftlang/swift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1914,11 +1914,11 @@
                     "id": 44838949,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T16:17:34Z",
-                    "open_issues": 9393,
+                    "last_commit": "2026-10-03T03:22:54Z",
+                    "open_issues": 9391,
                     "owner": "swiftlang",
                     "repo": "swift",
-                    "stars": 70447,
+                    "stars": 70450,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -1935,7 +1935,7 @@
             {
               "node_type": "item",
               "title": "sandblaster",
-              "description": null,
+              "description": "malus-security/sandblaster",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1973,7 +1973,7 @@
             {
               "node_type": "item",
               "title": "Attack Secure Boot of SEP - blackbird",
-              "description": null,
+              "description": "windknown/presentations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1994,7 +1994,7 @@
             {
               "node_type": "item",
               "title": "sepsplit-rs",
-              "description": null,
+              "description": "justtryingthingsout/sepsplit-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2015,7 +2015,7 @@
             {
               "node_type": "item",
               "title": "SEPROM",
-              "description": null,
+              "description": "hekapooios/hekapooios.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2036,7 +2036,7 @@
             {
               "node_type": "item",
               "title": "sepfinderbot",
-              "description": null,
+              "description": "lunaynx/sepfinderbot",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2062,7 +2062,7 @@
                 {
                   "node_type": "item",
                   "title": "AppleSEPFirmware",
-                  "description": null,
+                  "description": "mwpcheung/AppleSEPFirmware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2097,7 +2097,7 @@
                 {
                   "node_type": "item",
                   "title": "Siguza's ARM Bootcamp",
-                  "description": null,
+                  "description": "Siguza/ios-resources",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2125,7 +2125,7 @@
                 {
                   "node_type": "item",
                   "title": "Asahi: Introduction to Apple Silicon",
-                  "description": null,
+                  "description": "AsahiLinux/docs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2153,7 +2153,7 @@
                 {
                   "node_type": "item",
                   "title": "ARM Clang PAC ABI",
-                  "description": null,
+                  "description": "swiftlang/llvm-project",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2162,8 +2162,8 @@
                     "id": 215875945,
                     "language": "LLVM",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T16:01:16Z",
-                    "open_issues": 655,
+                    "last_commit": "2026-10-03T04:31:56Z",
+                    "open_issues": 645,
                     "owner": "swiftlang",
                     "repo": "llvm-project",
                     "stars": 1244,
@@ -2192,7 +2192,7 @@
             {
               "node_type": "item",
               "title": "apple-baseband",
-              "description": null,
+              "description": "hack-different/apple-baseband",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2218,7 +2218,7 @@
                 {
                   "node_type": "item",
                   "title": "IDA Hexagon",
-                  "description": null,
+                  "description": "gsmk/hexagon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2239,7 +2239,7 @@
                 {
                   "node_type": "item",
                   "title": "idp_heaxagon",
-                  "description": null,
+                  "description": "n-o-o-n/idp_hexagon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2260,7 +2260,7 @@
                 {
                   "node_type": "item",
                   "title": "Hexag00n",
-                  "description": null,
+                  "description": "programa-stic/hexag00n",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2281,7 +2281,7 @@
                 {
                   "node_type": "item",
                   "title": "Binary Ninja Hexagon",
-                  "description": null,
+                  "description": "google/binja-hexagon",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2302,7 +2302,7 @@
                 {
                   "node_type": "item",
                   "title": "Hexagon QEMU",
-                  "description": null,
+                  "description": "Comsecuris/qemu-hexagon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2329,7 +2329,7 @@
             {
               "node_type": "item",
               "title": "hollance/neural-engine",
-              "description": null,
+              "description": "hollance/neural-engine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2363,7 +2363,7 @@
                 {
                   "node_type": "item",
                   "title": "19h/ftab-dump",
-                  "description": null,
+                  "description": "19h/ftab-dump",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2393,7 +2393,7 @@
             {
               "node_type": "item",
               "title": "rvi_capture",
-              "description": null,
+              "description": "gh2o/rvi_capture",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2422,7 +2422,7 @@
             {
               "node_type": "item",
               "title": "ThunderboltPatcher",
-              "description": null,
+              "description": "osy/ThunderboltPatcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2448,7 +2448,7 @@
                 {
                   "node_type": "item",
                   "title": "libimobiledevice",
-                  "description": null,
+                  "description": "libimobiledevice/libimobiledevice",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2461,7 +2461,7 @@
                     "open_issues": 848,
                     "owner": "libimobiledevice",
                     "repo": "libimobiledevice",
-                    "stars": 8225,
+                    "stars": 8226,
                     "topics": [
                       "c",
                       "ios",
@@ -2475,7 +2475,7 @@
                 {
                   "node_type": "item",
                   "title": "pymobiledevice3",
-                  "description": null,
+                  "description": "doronz88/pymobiledevice3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2488,7 +2488,7 @@
                     "open_issues": 35,
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
-                    "stars": 2832,
+                    "stars": 2835,
                     "topics": [
                       "afc",
                       "instruments",
@@ -2507,7 +2507,7 @@
                 {
                   "node_type": "item",
                   "title": "python-libimobiledevice",
-                  "description": null,
+                  "description": "hack-different/python-libimobiledevice",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2538,7 +2538,7 @@
                 {
                   "node_type": "item",
                   "title": "libirecovery",
-                  "description": null,
+                  "description": "libimobiledevice/libirecovery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2573,7 +2573,7 @@
                 {
                   "node_type": "item",
                   "title": "usbmuxd",
-                  "description": null,
+                  "description": "libimobiledevice/usbmuxd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2602,7 +2602,7 @@
                 {
                   "node_type": "item",
                   "title": "demuxusb",
-                  "description": null,
+                  "description": "hack-different/demuxusb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2638,7 +2638,7 @@
                 {
                   "node_type": "item",
                   "title": "idevicerestore",
-                  "description": null,
+                  "description": "libimobiledevice/idevicerestore",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2647,7 +2647,7 @@
                     "id": 13831185,
                     "language": "C",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-09-07T01:03:21Z",
+                    "last_commit": "2026-10-03T01:01:52Z",
                     "open_issues": 339,
                     "owner": "libimobiledevice",
                     "repo": "idevicerestore",
@@ -2675,7 +2675,7 @@
                 {
                   "node_type": "item",
                   "title": "apple_utdm",
-                  "description": null,
+                  "description": "rickmark/apple_utdm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2703,7 +2703,7 @@
                 {
                   "node_type": "item",
                   "title": "macvdmtool",
-                  "description": null,
+                  "description": "rickmark/macvdmtool",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2738,7 +2738,7 @@
                 {
                   "node_type": "item",
                   "title": "openwifipass",
-                  "description": null,
+                  "description": "seemoo-lab/openwifipass",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2772,7 +2772,7 @@
                 {
                   "node_type": "item",
                   "title": "apple_net_recovery",
-                  "description": null,
+                  "description": "rickmark/apple_net_recovery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2807,7 +2807,7 @@
                 {
                   "node_type": "item",
                   "title": "apple-diagnostics-format",
-                  "description": null,
+                  "description": "hack-different/apple-diagnostics-format",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2842,7 +2842,7 @@
                 {
                   "node_type": "item",
                   "title": "MojoKDP.kext.S",
-                  "description": null,
+                  "description": "rickmark/mojo_thor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2875,7 +2875,7 @@
                 {
                   "node_type": "item",
                   "title": "dtformats",
-                  "description": null,
+                  "description": "libyal/dtformats",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2896,7 +2896,7 @@
                 {
                   "node_type": "item",
                   "title": "`ydkhatri/UnifiedLogReader``",
-                  "description": null,
+                  "description": "ydkhatri/UnifiedLogReader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2929,7 +2929,7 @@
                 {
                   "node_type": "item",
                   "title": "demuxusb",
-                  "description": null,
+                  "description": "hack-different/demuxusb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2971,7 +2971,7 @@
         {
           "node_type": "item",
           "title": "ipwndfu",
-          "description": null,
+          "description": "axi0mX/ipwndfu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2992,7 +2992,7 @@
         {
           "node_type": "item",
           "title": "Fugu14 writeup",
-          "description": null,
+          "description": "LinusHenze/Fugu14",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3013,7 +3013,7 @@
         {
           "node_type": "item",
           "title": "Fugu",
-          "description": null,
+          "description": "LinusHenze/Fugu",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3034,7 +3034,7 @@
         {
           "node_type": "item",
           "title": "rootlessJB writeup",
-          "description": null,
+          "description": "jakeajames/rootlessJB3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3055,7 +3055,7 @@
         {
           "node_type": "item",
           "title": "gaster",
-          "description": null,
+          "description": "0x7ff/gaster",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3076,7 +3076,7 @@
         {
           "node_type": "item",
           "title": "limera1n",
-          "description": null,
+          "description": "Chronic-Dev/syringe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3097,7 +3097,7 @@
         {
           "node_type": "item",
           "title": "ipwnder_lite",
-          "description": null,
+          "description": "dora2ios/ipwnder_lite",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3118,7 +3118,7 @@
         {
           "node_type": "item",
           "title": "greenpois0n",
-          "description": null,
+          "description": "OpenJailbreak/greenpois0n",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3141,7 +3141,7 @@
             {
               "node_type": "item",
               "title": "Procursus",
-              "description": null,
+              "description": "ProcursusTeam/Procursus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3154,7 +3154,7 @@
                 "open_issues": 150,
                 "owner": "ProcursusTeam",
                 "repo": "Procursus",
-                "stars": 1011,
+                "stars": 1014,
                 "topics": [
                   "cross-compilation",
                   "hacktoberfest",
@@ -3169,7 +3169,7 @@
             {
               "node_type": "item",
               "title": "ElleKit",
-              "description": null,
+              "description": "tealbathingsuit/ellekit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3190,7 +3190,7 @@
             {
               "node_type": "item",
               "title": "substitute",
-              "description": null,
+              "description": "comex/substitute",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3203,7 +3203,7 @@
                 "open_issues": 10,
                 "owner": "comex",
                 "repo": "substitute",
-                "stars": 587,
+                "stars": 588,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3211,7 +3211,7 @@
             {
               "node_type": "item",
               "title": "syringe",
-              "description": null,
+              "description": "Chronic-Dev/syringe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3232,7 +3232,7 @@
             {
               "node_type": "item",
               "title": "substitute",
-              "description": null,
+              "description": "sbingner/substitute",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3264,7 +3264,7 @@
         {
           "node_type": "item",
           "title": "pongoOS",
-          "description": null,
+          "description": "checkra1n/PongoOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3289,12 +3289,12 @@
         {
           "node_type": "item",
           "title": "Android on pongoOS",
-          "description": null,
+          "description": "corellium/projectsandcastle",
           "children": [
             {
               "node_type": "item",
               "title": "iphonelinux",
-              "description": null,
+              "description": "planetbeing/iphonelinux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3332,7 +3332,7 @@
         {
           "node_type": "item",
           "title": "Corellium's M1 Branch",
-          "description": null,
+          "description": "corellium/linux-m1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3345,7 +3345,7 @@
             "open_issues": 0,
             "owner": "corellium",
             "repo": "linux-m1",
-            "stars": 872,
+            "stars": 871,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3359,7 +3359,7 @@
         {
           "node_type": "item",
           "title": "mvt",
-          "description": null,
+          "description": "mvt-project/mvt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3372,7 +3372,7 @@
             "open_issues": 57,
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 15155,
+            "stars": 15170,
             "topics": [
               "android",
               "forensics",
@@ -3387,7 +3387,7 @@
         {
           "node_type": "item",
           "title": "isafety",
-          "description": null,
+          "description": "rickmark/isafety",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3410,7 +3410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:25:06.854Z",
+    "last_updated": "2026-10-03T04:32:33.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware",
@@ -3422,7 +3422,7 @@
       "open_issues": 4,
       "owner": "hack-different",
       "repo": "apple-knowledge",
-      "stars": 1396,
+      "stars": 1397,
       "topics": [
         "apple",
         "apple-silicon",
