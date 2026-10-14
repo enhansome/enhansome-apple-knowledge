@@ -21,7 +21,7 @@
                 "open_issues": 235,
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9435,
+                "stars": 9444,
                 "topics": [
                   "arm",
                   "arm64",
@@ -58,10 +58,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-13T14:35:43Z",
-                "open_issues": 350,
+                "open_issues": 351,
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 9084,
+                "stars": 9096,
                 "topics": [
                   "arm",
                   "arm64",
@@ -99,11 +99,11 @@
                 "id": 146060123,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T08:41:19Z",
+                "last_commit": "2026-10-14T02:34:36Z",
                 "open_issues": 6,
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3794,
+                "stars": 3797,
                 "topics": [
                   "apple",
                   "class-dump",
@@ -148,7 +148,7 @@
                     "open_issues": 20,
                     "owner": "alephsecurity",
                     "repo": "xnu-qemu-arm64",
-                    "stars": 1459,
+                    "stars": 1460,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -186,7 +186,7 @@
                 "open_issues": 20,
                 "owner": "alephsecurity",
                 "repo": "xnu-qemu-arm64",
-                "stars": 1459,
+                "stars": 1460,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
@@ -280,7 +280,7 @@
                     "open_issues": 8,
                     "owner": "onethawt",
                     "repo": "idaplugins-list",
-                    "stars": 3842,
+                    "stars": 3843,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -326,7 +326,7 @@
                     "open_issues": 14,
                     "owner": "avast",
                     "repo": "retdec-idaplugin",
-                    "stars": 798,
+                    "stars": 799,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -368,7 +368,7 @@
                     "open_issues": 0,
                     "owner": "matteyeux",
                     "repo": "ida-iboot-loader",
-                    "stars": 173,
+                    "stars": 175,
                     "topics": [
                       "checkm8",
                       "iboot",
@@ -395,7 +395,7 @@
                     "open_issues": 1,
                     "owner": "cellebrite-labs",
                     "repo": "PacXplorer",
-                    "stars": 159,
+                    "stars": 160,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -416,7 +416,7 @@
                     "open_issues": 0,
                     "owner": "cellebrite-labs",
                     "repo": "ida_kernelcache",
-                    "stars": 153,
+                    "stars": 154,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -611,7 +611,7 @@
                     "open_issues": 5,
                     "owner": "AllsafeCyberSecurity",
                     "repo": "awesome-ghidra",
-                    "stars": 1440,
+                    "stars": 1441,
                     "topics": [
                       "awesome-list",
                       "ghidra"
@@ -723,7 +723,7 @@
             "open_issues": 243,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13246,
+            "stars": 13250,
             "topics": [
               "android",
               "android-application",
@@ -899,7 +899,7 @@
                 "open_issues": 8,
                 "owner": "seemoo-lab",
                 "repo": "frankenstein",
-                "stars": 470,
+                "stars": 473,
                 "topics": [
                   "arm",
                   "bluetooth",
@@ -994,7 +994,7 @@
             "open_issues": 0,
             "owner": "acidanthera",
             "repo": "Lilu",
-            "stars": 3867,
+            "stars": 3868,
             "topics": [
               "lilu"
             ]
@@ -1144,7 +1144,7 @@
                     "open_issues": 126,
                     "owner": "sgan81",
                     "repo": "apfs-fuse",
-                    "stars": 2159,
+                    "stars": 2161,
                     "topics": [
                       "apfs",
                       "apfs-fuse",
@@ -1176,7 +1176,7 @@
                     "open_issues": 7,
                     "owner": "libyal",
                     "repo": "libfsapfs",
-                    "stars": 428,
+                    "stars": 429,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -1321,7 +1321,7 @@
                     "language": "C",
                     "license": "LGPL-2.1",
                     "last_commit": "2026-09-29T23:38:02Z",
-                    "open_issues": 28,
+                    "open_issues": 29,
                     "owner": "libimobiledevice",
                     "repo": "libplist",
                     "stars": 638,
@@ -1459,11 +1459,11 @@
                     "id": 19316865,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-12T12:10:07Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-10-14T14:07:05Z",
+                    "open_issues": 16,
                     "owner": "mikebrady",
                     "repo": "shairport-sync",
-                    "stars": 8887,
+                    "stars": 8890,
                     "topics": [
                       "airplay",
                       "airplay-2",
@@ -1914,11 +1914,11 @@
                     "id": 44838949,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-13T16:55:55Z",
-                    "open_issues": 9438,
+                    "last_commit": "2026-10-14T13:53:20Z",
+                    "open_issues": 9446,
                     "owner": "swiftlang",
                     "repo": "swift",
-                    "stars": 70501,
+                    "stars": 70500,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2110,7 +2110,7 @@
                     "open_issues": 4,
                     "owner": "Siguza",
                     "repo": "ios-resources",
-                    "stars": 1981,
+                    "stars": 1982,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2138,7 +2138,7 @@
                     "open_issues": 19,
                     "owner": "AsahiLinux",
                     "repo": "docs",
-                    "stars": 2310,
+                    "stars": 2311,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2162,8 +2162,8 @@
                     "id": 215875945,
                     "language": "LLVM",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-13T17:50:08Z",
-                    "open_issues": 646,
+                    "last_commit": "2026-10-14T15:19:57Z",
+                    "open_issues": 643,
                     "owner": "swiftlang",
                     "repo": "llvm-project",
                     "stars": 1246,
@@ -2461,7 +2461,7 @@
                     "open_issues": 846,
                     "owner": "libimobiledevice",
                     "repo": "libimobiledevice",
-                    "stars": 8253,
+                    "stars": 8257,
                     "topics": [
                       "c",
                       "ios",
@@ -2484,11 +2484,11 @@
                     "id": 357904774,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-13T05:04:54Z",
-                    "open_issues": 31,
+                    "last_commit": "2026-10-14T15:35:47Z",
+                    "open_issues": 32,
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
-                    "stars": 2868,
+                    "stars": 2874,
                     "topics": [
                       "afc",
                       "instruments",
@@ -2551,7 +2551,7 @@
                     "open_issues": 54,
                     "owner": "libimobiledevice",
                     "repo": "libirecovery",
-                    "stars": 658,
+                    "stars": 659,
                     "topics": [
                       "dfu",
                       "iboot",
@@ -2586,7 +2586,7 @@
                     "open_issues": 120,
                     "owner": "libimobiledevice",
                     "repo": "usbmuxd",
-                    "stars": 1779,
+                    "stars": 1780,
                     "topics": [
                       "c",
                       "daemon",
@@ -2651,7 +2651,7 @@
                     "open_issues": 339,
                     "owner": "libimobiledevice",
                     "repo": "idevicerestore",
-                    "stars": 1983,
+                    "stars": 1985,
                     "topics": [
                       "c",
                       "firmware",
@@ -2984,7 +2984,7 @@
             "open_issues": 168,
             "owner": "axi0mX",
             "repo": "ipwndfu",
-            "stars": 7433,
+            "stars": 7436,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3154,7 +3154,7 @@
                 "open_issues": 150,
                 "owner": "ProcursusTeam",
                 "repo": "Procursus",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": [
                   "cross-compilation",
                   "hacktoberfest",
@@ -3324,7 +3324,7 @@
             "open_issues": 10,
             "owner": "corellium",
             "repo": "projectsandcastle",
-            "stars": 2117,
+            "stars": 2118,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3372,7 +3372,7 @@
             "open_issues": 63,
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 15346,
+            "stars": 15365,
             "topics": [
               "android",
               "forensics",
@@ -3410,7 +3410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:51:46.554Z",
+    "last_updated": "2026-10-14T15:38:20.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware",
@@ -3418,11 +3418,11 @@
       "id": 435649432,
       "language": "Ruby",
       "license": "MIT",
-      "last_commit": "2026-10-05T16:23:15Z",
+      "last_commit": "2026-10-13T21:42:42Z",
       "open_issues": 5,
       "owner": "hack-different",
       "repo": "apple-knowledge",
-      "stars": 1410,
+      "stars": 1411,
       "topics": [
         "apple",
         "apple-silicon",
@@ -3437,7 +3437,7 @@
         "ruby"
       ]
     },
-    "original_repository_sha": "7b2ba25aedc454f0e199924154eb174361dfce9c",
+    "original_repository_sha": "7e30ba57ac24c6da9e123a3b2732b5d9810d4114",
     "enhanced_repository": "enhansome/enhansome-apple-knowledge",
     "enhanced_repository_description": null,
     "title": "Awesome Apple Data Formats and Knowledge with stars"
