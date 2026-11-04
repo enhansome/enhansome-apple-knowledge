@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-18T15:17:01Z",
-                "open_issues": 250,
+                "open_issues": 253,
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9529,
+                "stars": 9532,
                 "topics": [
                   "arm",
                   "arm64",
@@ -57,11 +57,11 @@
                 "id": 14735429,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-03T13:14:11Z",
-                "open_issues": 351,
+                "last_commit": "2026-11-04T14:55:59Z",
+                "open_issues": 349,
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 9163,
+                "stars": 9165,
                 "topics": [
                   "arm",
                   "arm64",
@@ -99,11 +99,11 @@
                 "id": 146060123,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-31T22:55:57Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-04T14:59:54Z",
+                "open_issues": 11,
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3858,
+                "stars": 3861,
                 "topics": [
                   "apple",
                   "class-dump",
@@ -663,7 +663,7 @@
                     "open_issues": 70,
                     "owner": "geohot",
                     "repo": "qira",
-                    "stars": 4069,
+                    "stars": 4068,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -719,11 +719,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-02T14:44:54Z",
+            "last_commit": "2026-11-04T13:15:09Z",
             "open_issues": 250,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13309,
+            "stars": 13311,
             "topics": [
               "android",
               "android-application",
@@ -1460,10 +1460,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-03T10:17:09Z",
-                    "open_issues": 12,
+                    "open_issues": 14,
                     "owner": "mikebrady",
                     "repo": "shairport-sync",
-                    "stars": 8994,
+                    "stars": 8995,
                     "topics": [
                       "airplay",
                       "airplay-2",
@@ -1914,11 +1914,11 @@
                     "id": 44838949,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-03T17:54:36Z",
-                    "open_issues": 9557,
+                    "last_commit": "2026-11-04T18:05:38Z",
+                    "open_issues": 9563,
                     "owner": "swiftlang",
                     "repo": "swift",
-                    "stars": 70524,
+                    "stars": 70526,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2162,8 +2162,8 @@
                     "id": 215875945,
                     "language": "LLVM",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-03T18:10:30Z",
-                    "open_issues": 636,
+                    "last_commit": "2026-11-04T18:20:13Z",
+                    "open_issues": 631,
                     "owner": "swiftlang",
                     "repo": "llvm-project",
                     "stars": 1250,
@@ -2342,7 +2342,7 @@
                 "open_issues": 11,
                 "owner": "hollance",
                 "repo": "neural-engine",
-                "stars": 2550,
+                "stars": 2551,
                 "topics": [
                   "ane",
                   "coreml",
@@ -2376,7 +2376,7 @@
                     "open_issues": 0,
                     "owner": "19h",
                     "repo": "ftab-dump",
-                    "stars": 72,
+                    "stars": 73,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2406,7 +2406,7 @@
                 "open_issues": 2,
                 "owner": "gh2o",
                 "repo": "rvi_capture",
-                "stars": 218,
+                "stars": 219,
                 "topics": [
                   "ios",
                   "iphone",
@@ -2461,7 +2461,7 @@
                     "open_issues": 850,
                     "owner": "libimobiledevice",
                     "repo": "libimobiledevice",
-                    "stars": 8313,
+                    "stars": 8318,
                     "topics": [
                       "c",
                       "ios",
@@ -2488,7 +2488,7 @@
                     "open_issues": 33,
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
-                    "stars": 2963,
+                    "stars": 2969,
                     "topics": [
                       "afc",
                       "instruments",
@@ -2551,7 +2551,7 @@
                     "open_issues": 52,
                     "owner": "libimobiledevice",
                     "repo": "libirecovery",
-                    "stars": 663,
+                    "stars": 665,
                     "topics": [
                       "dfu",
                       "iboot",
@@ -2651,7 +2651,7 @@
                     "open_issues": 341,
                     "owner": "libimobiledevice",
                     "repo": "idevicerestore",
-                    "stars": 2008,
+                    "stars": 2011,
                     "topics": [
                       "c",
                       "firmware",
@@ -2984,7 +2984,7 @@
             "open_issues": 168,
             "owner": "axi0mX",
             "repo": "ipwndfu",
-            "stars": 7448,
+            "stars": 7449,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3324,7 +3324,7 @@
             "open_issues": 10,
             "owner": "corellium",
             "repo": "projectsandcastle",
-            "stars": 2125,
+            "stars": 2124,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3369,10 +3369,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T09:02:43Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 15717,
+            "stars": 15731,
             "topics": [
               "android",
               "forensics",
@@ -3410,7 +3410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T18:10:28.844Z",
+    "last_updated": "2026-11-04T18:20:12.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware",
