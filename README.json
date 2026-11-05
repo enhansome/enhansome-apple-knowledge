@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-18T15:17:01Z",
-                "open_issues": 253,
+                "open_issues": 254,
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9532,
+                "stars": 9535,
                 "topics": [
                   "arm",
                   "arm64",
@@ -58,10 +58,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-11-04T14:55:59Z",
-                "open_issues": 349,
+                "open_issues": 350,
                 "owner": "capstone-engine",
                 "repo": "capstone",
-                "stars": 9165,
+                "stars": 9169,
                 "topics": [
                   "arm",
                   "arm64",
@@ -99,11 +99,11 @@
                 "id": 146060123,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-04T14:59:54Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-05T08:48:06Z",
+                "open_issues": 9,
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3861,
+                "stars": 3863,
                 "topics": [
                   "apple",
                   "class-dump",
@@ -301,7 +301,7 @@
                     "open_issues": 13,
                     "owner": "Cisco-Talos",
                     "repo": "GhIDA",
-                    "stars": 822,
+                    "stars": 823,
                     "topics": [
                       "disassembler",
                       "ghidra-decompiler",
@@ -611,7 +611,7 @@
                     "open_issues": 4,
                     "owner": "AllsafeCyberSecurity",
                     "repo": "awesome-ghidra",
-                    "stars": 1456,
+                    "stars": 1457,
                     "topics": [
                       "awesome-list",
                       "ghidra"
@@ -719,11 +719,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-04T13:15:09Z",
-            "open_issues": 250,
+            "last_commit": "2026-11-05T11:28:42Z",
+            "open_issues": 252,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13311,
+            "stars": 13314,
             "topics": [
               "android",
               "android-application",
@@ -866,7 +866,7 @@
                 "open_issues": 20,
                 "owner": "seemoo-lab",
                 "repo": "internalblue",
-                "stars": 792,
+                "stars": 793,
                 "topics": [
                   "android",
                   "ble",
@@ -899,7 +899,7 @@
                 "open_issues": 8,
                 "owner": "seemoo-lab",
                 "repo": "frankenstein",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "arm",
                   "bluetooth",
@@ -994,7 +994,7 @@
             "open_issues": 0,
             "owner": "acidanthera",
             "repo": "Lilu",
-            "stars": 3879,
+            "stars": 3880,
             "topics": [
               "lilu"
             ]
@@ -1051,7 +1051,7 @@
                     "open_issues": 3,
                     "owner": "apple",
                     "repo": "darwin-xnu",
-                    "stars": 11271,
+                    "stars": 11270,
                     "topics": [
                       "kernel"
                     ]
@@ -1144,7 +1144,7 @@
                     "open_issues": 130,
                     "owner": "sgan81",
                     "repo": "apfs-fuse",
-                    "stars": 2168,
+                    "stars": 2170,
                     "topics": [
                       "apfs",
                       "apfs-fuse",
@@ -1320,8 +1320,8 @@
                     "id": 8180632,
                     "language": "C",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-09-29T23:38:02Z",
-                    "open_issues": 33,
+                    "last_commit": "2026-11-05T11:03:25Z",
+                    "open_issues": 31,
                     "owner": "libimobiledevice",
                     "repo": "libplist",
                     "stars": 642,
@@ -1463,7 +1463,7 @@
                     "open_issues": 14,
                     "owner": "mikebrady",
                     "repo": "shairport-sync",
-                    "stars": 8995,
+                    "stars": 8997,
                     "topics": [
                       "airplay",
                       "airplay-2",
@@ -1536,7 +1536,7 @@
                     "open_issues": 2,
                     "owner": "ProcursusTeam",
                     "repo": "ldid",
-                    "stars": 287,
+                    "stars": 288,
                     "topics": [
                       "codesigning",
                       "ios",
@@ -1628,7 +1628,7 @@
                     "id": 77568341,
                     "language": "C++",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-08-20T23:45:12Z",
+                    "last_commit": "2026-11-05T06:33:18Z",
                     "open_issues": 1,
                     "owner": "tihmstar",
                     "repo": "img4tool",
@@ -1914,11 +1914,11 @@
                     "id": 44838949,
                     "language": "Swift",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-04T18:05:38Z",
-                    "open_issues": 9563,
+                    "last_commit": "2026-11-05T17:51:25Z",
+                    "open_issues": 9571,
                     "owner": "swiftlang",
                     "repo": "swift",
-                    "stars": 70526,
+                    "stars": 70540,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2162,8 +2162,8 @@
                     "id": 215875945,
                     "language": "LLVM",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-04T18:20:13Z",
-                    "open_issues": 631,
+                    "last_commit": "2026-11-05T18:20:22Z",
+                    "open_issues": 632,
                     "owner": "swiftlang",
                     "repo": "llvm-project",
                     "stars": 1250,
@@ -2376,7 +2376,7 @@
                     "open_issues": 0,
                     "owner": "19h",
                     "repo": "ftab-dump",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:17:26.012Z"
@@ -2461,7 +2461,7 @@
                     "open_issues": 850,
                     "owner": "libimobiledevice",
                     "repo": "libimobiledevice",
-                    "stars": 8318,
+                    "stars": 8319,
                     "topics": [
                       "c",
                       "ios",
@@ -2484,11 +2484,11 @@
                     "id": 357904774,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-03T11:32:52Z",
+                    "last_commit": "2026-11-05T09:26:16Z",
                     "open_issues": 33,
                     "owner": "doronz88",
                     "repo": "pymobiledevice3",
-                    "stars": 2969,
+                    "stars": 2975,
                     "topics": [
                       "afc",
                       "instruments",
@@ -2551,7 +2551,7 @@
                     "open_issues": 52,
                     "owner": "libimobiledevice",
                     "repo": "libirecovery",
-                    "stars": 665,
+                    "stars": 666,
                     "topics": [
                       "dfu",
                       "iboot",
@@ -2651,7 +2651,7 @@
                     "open_issues": 341,
                     "owner": "libimobiledevice",
                     "repo": "idevicerestore",
-                    "stars": 2011,
+                    "stars": 2012,
                     "topics": [
                       "c",
                       "firmware",
@@ -3068,7 +3068,7 @@
             "open_issues": 8,
             "owner": "0x7ff",
             "repo": "gaster",
-            "stars": 233,
+            "stars": 235,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3179,10 +3179,10 @@
                 "language": "Swift",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-07-31T15:31:07Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "tealbathingsuit",
                 "repo": "ellekit",
-                "stars": 733,
+                "stars": 735,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3277,7 +3277,7 @@
             "open_issues": 48,
             "owner": "checkra1n",
             "repo": "PongoOS",
-            "stars": 2770,
+            "stars": 2767,
             "topics": [
               "bootloader",
               "checkra1n",
@@ -3324,7 +3324,7 @@
             "open_issues": 10,
             "owner": "corellium",
             "repo": "projectsandcastle",
-            "stars": 2124,
+            "stars": 2125,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:26.012Z"
@@ -3368,11 +3368,11 @@
             "id": 386524895,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T09:02:43Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-05T15:31:07Z",
+            "open_issues": 67,
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 15731,
+            "stars": 15747,
             "topics": [
               "android",
               "forensics",
@@ -3410,7 +3410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:20:12.102Z",
+    "last_updated": "2026-11-05T18:23:30.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware",
@@ -3422,7 +3422,7 @@
       "open_issues": 5,
       "owner": "hack-different",
       "repo": "apple-knowledge",
-      "stars": 1420,
+      "stars": 1421,
       "topics": [
         "apple",
         "apple-silicon",
